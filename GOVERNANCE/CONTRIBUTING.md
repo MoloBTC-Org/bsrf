@@ -1,69 +1,73 @@
-# Contributing to Bitcoin Sovereign Documentation & Frameworks
+# Contributing to the Bitcoin Sovereignty Research Framework
 
-Welcome! This repository contains legal-level documents, governance frameworks, standards, and knowledge resources aligned with Bitcoin values: **sovereignty, sound money, voluntary cooperation, verifiable systems, privacy, and open truth-seeking**.
+Thank you for your interest in contributing to this project.
 
-We believe the best frameworks emerge from open, rigorous debate while maintaining the integrity and clarity of official publications.
+This repository serves as the **Single Source of Truth** for the Bitcoin Sovereignty Research Framework. All contributions must maintain the intellectual integrity, professional standards, and coherence of the work.
 
-## Our Philosophy
+## Core Principles
 
-- **Open debate is encouraged** — especially on documentation frameworks, governance models, and how they align with Bitcoin principles.
-- **Anyone can participate** in discussions and propose ideas.
-- **Official publications must remain neat, tidy, accurate, and professionally presented**.
-- Changes to the canonical versions go through a structured, reviewed process.
+All contributions must align with the following positions:
 
-This balance allows maximum idea flow while protecting the quality and trustworthiness of published work.
+- Bitcoin is **sui generis bearer property**.
+- Bitcoin functions as an **adjacent currency** to state-issued money.
+- Self-custody and the Right to Noding are fundamental rights.
+- We maintain a clear distinction between Bitcoin and issuer-dependent crypto assets.
 
-## How to Participate
+## Publishing Baseline
 
-### 1. Open Debate & Idea Generation (Recommended First Step)
-- Use **GitHub Discussions** for open conversation.
-- Categories available:
-  - Framework Ideas & Evolution
-  - Bitcoin Values Alignment
-  - Documentation Improvements
-  - Legal & Governance Considerations
-  - General Discussion
-- Start a new discussion or reply thoughtfully. All ideas that build on sovereignty, voluntaryism, and verifiable systems are welcome.
+All documents submitted to this repository **must** follow the **Bitcoin Sovereignty Publishing Baseline v1.0**.
 
-### 2. Structured Proposals
-- If an idea gains traction, open a **GitHub Issue** with the `proposal` or `framework-debate` label.
-- Clearly describe the change, rationale, and alignment with Bitcoin values.
-- Reference related Discussions.
+See: [PUBLISHING_BASELINE_v1.0.md](PUBLISHING_BASELINE_v1.0.md)
 
-### 3. Submitting Changes (Pull Requests)
-We use a **fork + Pull Request** model for contributions to keep the main branch clean.
+Documents that do not conform to the Baseline may be returned for reformatting or rejected.
 
-1. **Fork** this repository.
-2. Create a feature branch from `main` (e.g., `framework-evolution/xyz` or `docs/improvement-abc`).
-3. Make your changes.
-4. Ensure your changes follow our quality standards (see Review Criteria below).
-5. Open a **Pull Request** against `main`.
-6. Link the PR to the related Issue or Discussion.
+## How to Contribute
 
-**Note**: Direct pushes to `main` are restricted. All changes require review.
+### 1. Discussions
+Use GitHub Discussions for:
+- Ideas and proposals
+- Questions about the framework
+- Debate on legal or policy positions
 
-### 4. Review Process
-Pull Requests are reviewed by designated Maintainers and CODEOWNERS.
+### 2. Pull Requests
+Use Pull Requests for:
+- New documents
+- Improvements to existing documents
+- Structural or formatting changes
 
-**Review Criteria** (all must be considered):
-- **Clarity & Neatness**: Is the language clear, professional, and well-structured?
-- **Accuracy**: Is the content factually and legally sound?
-- **Bitcoin Values Alignment**: Does this strengthen or clearly articulate sovereignty, sound money, voluntary cooperation, or verifiable systems?
-- **Impact on Official Publications**: Will merging this keep the published versions tidy and referenceable?
-- **Scope**: Is the change focused and appropriately sized?
+All Pull Requests must:
+- Reference the relevant section of the Publishing Baseline
+- Include a clear description of the change and its purpose
+- Be reviewed by at least one maintainer
 
-Maintainers may request revisions, ask for more discussion, or approve the merge.
+### 3. Issue Tracking
+Use Issues for:
+- Bug reports (broken links, formatting issues)
+- Requests for clarification
+- Suggestions for new nation-specific documents or analyses
 
-### 5. After Merge
-- Significant changes are tagged with a new release.
-- Official published versions may be updated on associated sites or Pages.
+## Document Standards
+
+- All new documents should be placed in the appropriate tier/folder (`foundations/`, `operational/`, `nation-specific/`, etc.).
+- Use the approved templates located in the `templates/` folder.
+- Maintain consistent front matter, headings, and citation style as defined in the Publishing Baseline.
+- Cross-reference related documents where relevant.
+
+## Governance
+
+This project follows the **Bitcoin Sovereign Open Source License (BSOL) v1.0** governance model.
+
+- The `PUBLISHING_BASELINE_v1.0.md` is a protected document. Changes require explicit maintainer approval.
+- Major structural changes to the repository should be discussed first.
 
 ## Code of Conduct
-We expect respectful, good-faith participation. Harassment, spam, or bad-faith attacks on Bitcoin values will not be tolerated. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
+
+All contributors are expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Questions?
-Open a Discussion in the appropriate category or tag a Maintainer.
 
-Thank you for helping build clear, sovereign, and robust documentation frameworks.
+Open a Discussion or contact the steward via the channels listed in the repository.
 
-— The Maintainers
+---
+
+**Truthful. Aligned. Sovereign.**
