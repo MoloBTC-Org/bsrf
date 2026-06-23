@@ -1,82 +1,78 @@
-# Bitcoin Sovereign Open Source License (BSOL) v1.0
+# Bitcoin Sovereignty Research Framework (BSRF)
 
-**Canonical repository** for the Bitcoin Sovereign Open Source License v1.0 and its flagship companion document.
+**Version 1.0**  
+**Published by MoloBTC**  
+**License: BSOL v1.0**  
+**Canonical Repository:** https://github.com/MoloBTC-Org/bsrf
 
-**Published by**: MoloBTC-Org  
-**Steward**: Jacques Strydom, PMP (Jabulani Jakes)  
-**Website**: [www.MoloBTC.africa](https://www.MoloBTC.africa)
+## Overview
 
----
+The Bitcoin Sovereignty Research Framework is a comprehensive, principles-based research project examining how Bitcoin should be treated under law, tax, and policy across jurisdictions.
 
-## What is BSOL?
+It argues that self-custodied Bitcoin is best understood as a **sui generis bearer asset and adjacent currency** — a new category that does not fit cleanly into traditional legal classifications of currency, capital, property, commodity, or security.
 
-The **Bitcoin Sovereign Open Source License (BSOL) v1.0** is a permissive, forkable open license designed specifically for Bitcoin-related code, papers, analyses, curricula, declarations, designs, and reference implementations.
+The framework is grounded in:
+- Natural law and homesteading theory
+- Constitutional protections for property and privacy
+- Austrian monetary theory
+- Practical regulatory analysis across multiple countries
 
-It combines the legal strength of the Apache 2.0 grant with Bitcoin-native sovereign principles: radical freedom of use, explicit fork rights, pseudonymity, privacy-preserving development, encrypted channels, the right to remain silent, and free-speech safe harbour for all ideas.
+## Core Documents (Root)
 
-BSOL treats knowledge and code as non-rivalrous. It rejects artificial enclosure and affirms that the protocol’s mathematics is bedrock.
+| Document | Description |
+|----------|-------------|
+| `Bitcoin_Sui_Generis_Bearer_Property_Whitepaper_v1.md` | Establishes Bitcoin as justly acquired bearer property through proof-of-work homesteading |
+| `Bitcoin_Adjacent_Currency_International_Law_Whitepaper_v1.md` | Argues Bitcoin functions as an adjacent currency alongside state money |
+| `Global_Principles_v1.md` | The ten foundational principles of the framework |
+| `South_Africa_Public_Comment_Template_v1.md` | Locked final version of the public comment submission for South Africa's Draft Capital Flow Management Regulations 2026 |
 
-## Quick Start – How to Use
+## Repository Structure
 
-1. Copy [`LICENSE.md`](LICENSE.md) into the root of your project.
-2. Reference it in your README or documentation.
-3. Add your own donation address in your project’s documentation if you publish under BSOL (pass-through encouraged).
+```
+Bitcoin_Sovereignty_Research_Framework/
+├── Core Whitepapers (Root)
+├── Global Principles (Root)
+├── South Africa Public Comment Template (Root)
+│
+├── GOVERNANCE/                    # BSOL governance files + Sovereign Knowledge Declaration
+├── NATION_SPECIFIC_DOCUMENTS/     # Country-by-country analysis
+├── SUPPORTING_ANALYSES_LEGAL_TAX_CASE_LAW/
+│   ├── Legal Bridges (Property & Privacy)
+│   ├── Tax Classifications Analysis
+│   ├── Case Law Compendium
+│   └── Master Collation Database
+│
+└── INTERNAL/                      # Project management notes
+```
 
-## The Sovereign Bitcoin Knowledge Declaration
+## Key Principles
 
-The flagship companion document released under BSOL v1.0:
+The framework is built on the following core ideas:
 
-→ [`SOVEREIGN-KNOWLEDGE-DECLARATION.md`](SOVEREIGN-KNOWLEDGE-DECLARATION.md)
+- Bitcoin is **sui generis** — it cannot be coherently forced into legacy legal categories.
+- Self-custody is the highest form of control and should be protected.
+- Taxation should target **realised economic activity**, not mere holding or mind-resident control.
+- The **Right to Noding** and privacy of cryptographic control are fundamental.
+- Bitcoin should be treated as an **adjacent currency**, not as capital or investment.
 
-## Full License Text
+## Current Status
 
-See [`LICENSE.md`](LICENSE.md)
+- All core whitepapers and supporting analyses are complete (v1).
+- 20+ nation-specific documents have been created.
+- Active public comment work is focused on South Africa’s Draft Capital Flow Management Regulations 2026.
 
-## Funding & Support
+## License
 
-Voluntary value exchange is encouraged.  
-See [`DONATIONS.md`](DONATIONS.md) for current methods (Lightning, on-chain, Nostr).
+This repository is published under the **Bitcoin Sovereign Open Source License (BSOL) v1.0**.
 
-## Community & Verification on Nostr
+See `LICENSE.md` and the `GOVERNANCE/` folder for full details.
 
-For announcements, discussion, and value-for-value support:  
-`npub1jvcg9k658yg9y8asx78wg05vm5tta2ckwumanqkgjuwkvk4x95uss8l6au`
+## Contact & Attribution
 
-This npub serves as the permanent verification layer that travels with hard copies and digital distributions.
-
-## Using This Repository as a Template
-
-This repository (`MoloBTC-Org/bsol`) serves as **THE STANDARD** — the official template and governance baseline for all future MoloBTC repositories.
-
-### Quick Start – Create a New Repo from This Template
-1. On this repository page, click the green **"Use this template"** button.
-2. Choose a new repository name and visibility (Public or Private).
-3. The new repository will automatically include:
-   - **BSOL v1.0** as the default license
-   - Professional governance files (`CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, PR template, labels)
-   - The complete mechanical and documentation structure
-
-### What You Get
-- Default license under the Bitcoin Sovereign Open Source License (BSOL) v1.0
-- Open debate via Discussions + structured, reviewed contributions (CODEOWNERS + branch protection)
-- Consistent professional standards and Bitcoin sovereignty flavour
-- Ready-to-use governance scaffolding for documentation or code projects
-
-### Recommended Next Steps After Creating from Template
-- Update project-specific details in `README.md`, `LICENSE.md`, and steward information.
-- Review and activate labels, Project Board, and Discussions categories.
-- Customize the governance folder (`.github/governance/`) only if needed — the defaults are designed to scale.
-
-This template approach ensures every MoloBTC repository starts with the same high professional baseline while preserving full sovereignty.
-
-**Questions or contributions?** Open a Discussion or reach out via the Nostr key below.
-
-## References
-
-See [`REFERENCES.md`](REFERENCES.md)
+**Published by MoloBTC**  
+Website: [www.moloBTC.africa](https://www.moloBTC.africa)  
+GitHub: [MoloBTC-Org](https://github.com/MoloBTC-Org)
 
 ---
 
-**Truthful. Aligned. Sovereign. Forkable.**
-
-*Initiated and published by MoloBTC-Org • Steward: Jacques Strydom, PMP (Jabulani Jakes)*
+*This framework is intended as a living body of research. Contributions, corrections, and jurisdiction-specific updates are welcome.*
