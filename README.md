@@ -1,78 +1,115 @@
 # Bitcoin Sovereignty Research Framework (BSRF)
 
-**Version 1.0**  
-**Published by MoloBTC**  
-**License: BSOL v1.0**  
-**Canonical Repository:** https://github.com/MoloBTC-Org/bsrf
+**A single-source-of-truth research ecosystem for treating Bitcoin as sui generis bearer property and adjacent currency.**
 
-## Overview
+**Published by**: MoloBTC  
+**Steward**: Jacques Strydom, PMP  
+**License**: BSOL v1.0
 
-The Bitcoin Sovereignty Research Framework is a comprehensive, principles-based research project examining how Bitcoin should be treated under law, tax, and policy across jurisdictions.
+---
 
-It argues that self-custodied Bitcoin is best understood as a **sui generis bearer asset and adjacent currency** — a new category that does not fit cleanly into traditional legal classifications of currency, capital, property, commodity, or security.
+## Purpose
 
-The framework is grounded in:
-- Natural law and homesteading theory
-- Constitutional protections for property and privacy
-- Austrian monetary theory
-- Practical regulatory analysis across multiple countries
+This repository is the canonical home of the **Bitcoin Sovereignty Research Framework** — a structured body of work that combines deep jurisprudential foundations with practical operational guidance for self-custodied Bitcoin.
 
-## Core Documents (Root)
+Our core positions are:
 
-| Document | Description |
-|----------|-------------|
-| `Bitcoin_Sui_Generis_Bearer_Property_Whitepaper_v1.md` | Establishes Bitcoin as justly acquired bearer property through proof-of-work homesteading |
-| `Bitcoin_Adjacent_Currency_International_Law_Whitepaper_v1.md` | Argues Bitcoin functions as an adjacent currency alongside state money |
-| `Global_Principles_v1.md` | The ten foundational principles of the framework |
-| `South_Africa_Public_Comment_Template_v1.md` | Locked final version of the public comment submission for South Africa's Draft Capital Flow Management Regulations 2026 |
+- Bitcoin is **sui generis** — it cannot be coherently classified under traditional legal categories of currency, capital, commodity, or security.
+- Bitcoin functions as an **adjacent currency** to state-issued money.
+- Self-custody and the **Right to Noding** are fundamental rights that deserve explicit protection.
+- Sound policy must distinguish between Bitcoin and issuer-dependent crypto assets.
+
+---
+
+## Two-Tier Architecture
+
+This framework is organised into two interconnected tiers:
+
+### Tier 1 – Foundations
+Philosophical, jurisprudential, and historical foundations.
+
+**Key documents**:
+- Bitcoin as Sui Generis Bearer Property Whitepaper
+- Bitcoin as Adjacent Currency under International Law Whitepaper
+- Global Principles
+
+### Tier 2 – Operational
+Risk, implementation, and practical guidance for self-custody and sovereign infrastructure.
+
+**Key focus areas**:
+- Risk Mitigation Framework
+- Critical Monetary Infrastructure
+- Implementation Pathways
+
+---
+
+## How to Navigate This Repository
+
+### Recommended Reading Paths
+
+**Board / Executive Leadership**  
+Start with Global Principles → Tier 2 Risk Framework → South Africa Public Comment Template.
+
+**Legal, Policy & Regulatory**  
+Begin with the two flagship whitepapers → Global Principles → relevant nation-specific documents (especially South Africa).
+
+**Technical, Security & Engineering**  
+Focus on Tier 2 operational documents + energy-physics section (when populated) + self-custody implementation guidance.
+
+**Researchers & Academics**  
+Read the full foundations tier, then the supporting analyses and case law compendium.
+
+**General Audience / Self-Custody Practitioners**  
+Start with supporting materials and the South Africa objection template.
+
+---
+
+## Publishing Standards
+
+All documents in this repository must follow the **Bitcoin Sovereignty Publishing Baseline v1.0**.
+
+See: [PUBLISHING_BASELINE_v1.0.md](PUBLISHING_BASELINE_v1.0.md)
+
+Non-compliant documents may be reformatted or rejected during review.
+
+---
 
 ## Repository Structure
 
 ```
-Bitcoin_Sovereignty_Research_Framework/
-├── Core Whitepapers (Root)
-├── Global Principles (Root)
-├── South Africa Public Comment Template (Root)
-│
-├── GOVERNANCE/                    # BSOL governance files + Sovereign Knowledge Declaration
-├── NATION_SPECIFIC_DOCUMENTS/     # Country-by-country analysis
-├── SUPPORTING_ANALYSES_LEGAL_TAX_CASE_LAW/
-│   ├── Legal Bridges (Property & Privacy)
-│   ├── Tax Classifications Analysis
-│   ├── Case Law Compendium
-│   └── Master Collation Database
-│
-└── INTERNAL/                      # Project management notes
+bsrf/
+├── README.md
+├── PUBLISHING_BASELINE_v1.0.md
+├── foundations/          # Tier 1 – Core philosophy & law
+├── operational/          # Tier 2 – Risk & implementation
+├── education/            # Education & capacity building
+├── energy-physics/       # Physics, energy & thermodynamic dimensions
+├── nation-specific/      # Jurisdiction-specific analysis
+├── governance/           # BSOL, contribution rules, versioning
+├── supporting/           # Deep analyses, case law, references
+└── templates/            # Publishing templates
 ```
-
-## Key Principles
-
-The framework is built on the following core ideas:
-
-- Bitcoin is **sui generis** — it cannot be coherently forced into legacy legal categories.
-- Self-custody is the highest form of control and should be protected.
-- Taxation should target **realised economic activity**, not mere holding or mind-resident control.
-- The **Right to Noding** and privacy of cryptographic control are fundamental.
-- Bitcoin should be treated as an **adjacent currency**, not as capital or investment.
-
-## Current Status
-
-- All core whitepapers and supporting analyses are complete (v1).
-- 20+ nation-specific documents have been created.
-- Active public comment work is focused on South Africa’s Draft Capital Flow Management Regulations 2026.
-
-## License
-
-This repository is published under the **Bitcoin Sovereign Open Source License (BSOL) v1.0**.
-
-See `LICENSE.md` and the `GOVERNANCE/` folder for full details.
-
-## Contact & Attribution
-
-**Published by MoloBTC**  
-Website: [www.moloBTC.africa](https://www.moloBTC.africa)  
-GitHub: [MoloBTC-Org](https://github.com/MoloBTC-Org)
 
 ---
 
-*This framework is intended as a living body of research. Contributions, corrections, and jurisdiction-specific updates are welcome.*
+## Governance & Contribution
+
+This repository follows the **Bitcoin Sovereign Open Source License (BSOL) v1.0**.
+
+- Read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+- Read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for community standards.
+- All new documents must conform to the Publishing Baseline.
+
+---
+
+## License
+
+This work is licensed under the **Bitcoin Sovereign Open Source License (BSOL) v1.0**.
+
+See [LICENSE.md](LICENSE.md) for full details.
+
+---
+
+**Truthful. Aligned. Sovereign. Forkable.**
+
+*Maintained following THE STANDARD governance model*
