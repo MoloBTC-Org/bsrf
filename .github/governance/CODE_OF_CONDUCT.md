@@ -10,12 +10,7 @@ We are committed to building clear, accurate, professional, and sovereignty-alig
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
-
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
-
-**Additionally, in the spirit of Bitcoin values (sovereignty, sound money, voluntary cooperation, privacy, verifiable systems, and truth-seeking), we pledge to engage in constructive, good-faith debate and criticism aimed at improving the clarity, accuracy, and alignment of our frameworks and documentation.**
-
+play hard and play fair: truth & factual accuracy respected above all, candour preferred.
 ---
 
 ## Our Standards
