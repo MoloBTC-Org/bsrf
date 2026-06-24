@@ -10,7 +10,8 @@ We are committed to building clear, accurate, professional, and sovereignty-alig
 
 ## Our Pledge
 
-play hard and play fair: truth & factual accuracy respected above all, candour preferred.
+we play hard but we play fair: truth & factual accuracy respected above all, 
+candour preferred. iron sharpens iron, clarity over clout. -JJ
 ---
 
 ## Our Standards
