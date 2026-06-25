@@ -37,7 +37,7 @@ This document serves as the central tracking database for the Bitcoin Sovereignt
 |----------|--------|-------|
 | `Bitcoin_Sui_Generis_Bearer_Property_Whitepaper_v1.md` | Complete | Core jurisprudential foundation |
 | `Bitcoin_Adjacent_Currency_International_Law_Whitepaper_v1.md` | Complete | International law and tax coordination framework |
-| `Tier1_Sovereign_Monetary_Infrastructure_Synthesis.md` | Complete | Historical context and operational synthesis |
+| `Tier1_Executive_Overview_v1.md` | Complete | High-level orienting document for Tier 1 |
 
 ### Supporting Analyses
 
