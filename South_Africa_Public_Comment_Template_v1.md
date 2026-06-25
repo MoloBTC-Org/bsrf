@@ -106,7 +106,7 @@ Sincerely,
 
 **Published by MoloBTC**  
 This submission is published by MoloBTC. The signatory above adds their name in support of the position set out herein. Further documentation and the full research repository supporting this framing are available at:  
-https://github.com/MoloBTC  
+https://github.com/MoloBTC-Org/bsrf
 https://www.moloBTC.africa
 
-MoloBTC is available for public engagement and consultation on these matters.
+MoloBTC is available for public engagement, professional and private consultation on these matters.
