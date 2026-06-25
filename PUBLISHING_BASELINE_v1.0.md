@@ -1,4 +1,4 @@
-# Bitcoin Sovereignty Publishing Baseline v1.0
+# Bitcoin Sovereignty Publishing Baseline v1
 
 **Status**: Authoritative and Protected  
 **Applies to**: All documents in the Bitcoin Sovereignty Research Framework repository
