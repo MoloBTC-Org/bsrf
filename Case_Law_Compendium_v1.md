@@ -1,4 +1,4 @@
-# Case Law Compendium – Bitcoin & Crypto
+# Case Law Compendium – Bitcoin (& Crypto)
 
 **Supporting Document**  
 **Bitcoin Self-Custody Research Framework**
@@ -47,6 +47,101 @@ US courts and regulators have addressed Bitcoin and crypto assets across multipl
 
 - **IRS Notice 2014-21**: Virtual currency is treated as property for federal tax purposes. Gains or losses are calculated on realisation.
 - **SEC Enforcement Actions**: The SEC has pursued enforcement on the basis that certain tokens constitute securities. Bitcoin itself has generally been treated as a commodity rather than a security in enforcement and regulatory commentary.
+- **Commodity Classification**: The CFTC has asserted jurisdiction over Bitcoin as a commodity.
+
+**Notable Case References in Framework Context:**
+- SEC v. Ripple Labs, Inc. and others (ongoing and related proceedings) — litigation concerning whether XRP constitutes a security.
+- Various district court and tax court decisions addressing the tax treatment of cryptocurrency as property.
+
+**Relevance to Framework:** The fragmented US approach (different regulators asserting jurisdiction over different aspects) illustrates both the difficulty of forcing Bitcoin into pre-existing legal categories and the relative strength of self-custody in avoiding intermediary-dependent enforcement surfaces.
+
+### Craig Wright Litigation – United States
+
+**Kleiman v Wright** (S.D. Fla., Case No. 9:18-cv-80176-BB)  
+Alleged partnership between Dave Kleiman and Craig Wright regarding the creation and ownership of Bitcoin. The case involved extensive discovery and disputes over the authenticity of documents and ownership claims relating to approximately 1.1 million Bitcoin.  
+**Relevance to Framework:** Demonstrates the evidentiary and practical difficulties of proving Bitcoin ownership in traditional legal systems when assets are held through cryptographic self-custody.
+
+### Samourai Wallet Prosecution and Developer Liability
+
+In 2024–2025, the developers of Samourai Wallet faced criminal charges in the United States related to the operation of mixing services and alleged violations of money transmission and money laundering laws. The case has raised significant concerns regarding the potential criminal liability of software developers for creating and maintaining non-custodial Bitcoin tools.
+
+**Relevance to Framework:** The Samourai Wallet prosecution sits in direct tension with developer protections proposed under the CLARITY Act. It highlights the legal risk faced by individuals and teams building open-source Bitcoin infrastructure and reinforces the need for clear statutory safe harbours for non-custodial software development. The case also underscores the broader difficulty the multi-entity US regulatory landscape (SEC, CFTC, FinCEN, IRS, and state regulators) faces in coherently defining the legal status of decentralised tools and protocols.
+
+### SEC v. Ripple Labs, Inc. – Contrast with Bitcoin
+
+The SEC’s enforcement action against Ripple Labs and its executives alleged that XRP constituted an unregistered security. The litigation and subsequent rulings illustrated a regulatory approach that treated the issuance and distribution of XRP similarly to the issuance of traditional securities, with potential personal liability attaching to executives and promoters.
+
+**Relevance to Framework:** This case provides a clear point of contrast with Bitcoin. Unlike XRP, Bitcoin has no issuer, no central development team controlling token issuance, and no executives who can be held accountable in the manner of securities promoters. The Ripple litigation underscores the regulatory confusion that arises when attempting to apply traditional securities frameworks to fundamentally different digital assets and strengthens the argument for recognising Bitcoin’s sui generis status as distinct from issuer-dependent crypto assets.
+
+---
+
+## United Kingdom
+
+UK courts have recognised cryptoassets as property for certain legal purposes (insolvency, tracing, and proprietary remedies).
+
+**Key Themes from Case Law:**
+- Cryptoassets have been held to constitute property capable of being the subject of proprietary claims and tracing.
+- Common law development has proceeded on a case-by-case basis.
+
+**Relevance to Framework:** The UK approach demonstrates that common law systems can extend property protections to Bitcoin without requiring legislative reclassification as “money” or “capital”. This aligns with the sui generis bearer property analysis.
+
+### Craig Wright Litigation – United Kingdom
+
+**Wright v McCormack** [2022] EWHC 2068 (QB)  
+Defamation claim brought by Craig Wright against Peter McCormack. The court made findings on the evidentiary standards required to prove claims of Bitcoin creation and identity.
+
+**Identity Ruling (2024)**  
+The High Court (Mr Justice Mellor) ruled that Craig Wright is not the person or persons who created Bitcoin and found that certain documents had been forged.  
+**Relevance to Framework:** Reinforces that verifiable cryptographic control carries significant legal weight over mere assertions of ownership or creation.
+
+---
+
+## European Jurisdictions
+
+### MiCA Implementation and Related Litigation
+
+The Markets in Crypto-Assets Regulation (MiCA) has generated national-level implementation and enforcement activity across EU Member States.
+
+**Key Issues Emerging:**
+- Licensing and conduct requirements for Crypto-Asset Service Providers (CASPs).
+- Classification of different types of crypto assets.
+- Interaction between MiCA and existing financial services regulation.
+
+**Relevance to Framework:** MiCA represents a comprehensive attempt to regulate intermediary activities. It does not directly regulate self-custody or the Bitcoin protocol itself, reinforcing the distinction between on-chain activity and regulated service provision.
+
+---
+
+## Australia
+
+Australian courts have generally treated Bitcoin as property for tax and insolvency purposes. Craig Wright and associated entities have been involved in multiple proceedings concerning corporate governance, taxation, and regulatory compliance, including disputes with the Australian Taxation Office.
+
+**Relevance to Framework:** These cases contribute to the growing body of jurisprudence recognising Bitcoin’s status as a sui generis form of property under common law systems.
+
+---
+
+## Craig Wright Litigation – Cross-Jurisdictional Summary
+
+Craig Wright has been involved in high-profile litigation across multiple jurisdictions (primarily the United States, United Kingdom, and Australia). These cases have tested questions of Bitcoin ownership, identity claims regarding the creation of Bitcoin, evidentiary standards in cryptographic disputes, and the treatment of Bitcoin as property. The outcomes have generally reinforced the legal importance of verifiable cryptographic control and self-custody over mere assertions of ownership.
+
+---
+
+## Ongoing Monitoring
+
+This compendium will be updated as new significant rulings emerge globally, with particular attention to:
+- Further developments in Craig Wright-related litigation.
+- Regulatory enforcement actions affecting self-custody.
+- Cases addressing the legal status of Bitcoin as property across jurisdictions.
+- Prosecutions involving non-custodial Bitcoin tools and developers (such as Samourai Wallet) and their interaction with proposed statutory protections.
+
+---
+
+**Prepared by** Jacques Strydom, PMP (PMI ID: 3160455)  
+**Published by** MoloBTC  
+**In collaboration with** Grok (built by xAI)
+
+**License:** Released under the Bitcoin Sovereign Open Source License (BSOL) v1.0.
+
+**Canonical Repository:** https://github.com/MoloBTC-Org/bsrf- **SEC Enforcement Actions**: The SEC has pursued enforcement on the basis that certain tokens constitute securities. Bitcoin itself has generally been treated as a commodity rather than a security in enforcement and regulatory commentary.
 - **Commodity Classification**: The CFTC has asserted jurisdiction over Bitcoin as a commodity.
 
 **Notable Case References in Framework Context:**
