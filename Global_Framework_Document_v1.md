@@ -152,9 +152,11 @@ This repository operates under the **Bitcoin Sovereign Open Source License (BSOL
 
 ## 7. Repository Structure
 
-The repository is organised to reflect the framework’s two-tier model, beginning with high-level principles and integrative documents at the root level, followed by clearly separated directories for Tier 1 (Foundations) and Tier 2 (Operational) work. Nation-specific analysis is maintained in its own dedicated folder to allow for independent development and future expansion.
+The repository is organised to reflect the framework’s two-tier model. Tier 1 contains five documents: the three core thematic papers (`Tier1_Sui_Generis_Bearer_Property_v1.md`, `Tier1_Adjacent_Currency_v1.md`, and `Tier1_Sovereign_Monetary_Infrastructure_v1.md`), the `Tier1_Executive_Overview_v1` (the integrative orienting document for the tier), and `Tier1_Full_Document_v1.md` (the combined version).
 
-A detailed and maintained view of the full repository structure, including document status and reading guidance, is available in the `Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.1.md` and `Master_Collation_Database_v1.md` files located in the root of the repository.
+Tier 2 follows a parallel structure with five documents, including its own `Tier2_Executive_Overview_v1.0.md`.
+
+A detailed and maintained view of the full repository structure is available in `Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.3.md` and `Master_Collation_Database_v1.md`.
 
 ---
 
