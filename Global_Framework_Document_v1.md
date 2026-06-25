@@ -152,19 +152,9 @@ This repository operates under the **Bitcoin Sovereign Open Source License (BSOL
 
 ## 7. Repository Structure
 
-```
-bsrf/
-├── Global_Framework_Document_v1.md
-├── PUBLISHING_BASELINE_v1.0.md
-├── foundations/                    # Tier 1
-├── operational/                    # Tier 2
-├── education/
-├── energy-physics/
-├── nation-specific/
-├── governance/
-├── supporting/
-└── templates/
-```
+The repository is organised to reflect the framework’s two-tier model, beginning with high-level principles and integrative documents at the root level, followed by clearly separated directories for Tier 1 (Foundations) and Tier 2 (Operational) work. Nation-specific analysis is maintained in its own dedicated folder to allow for independent development and future expansion.
+
+A detailed and maintained view of the full repository structure, including document status and reading guidance, is available in the `Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.1.md` and `Master_Collation_Database_v1.md` files located in the root of the repository.
 
 ---
 
