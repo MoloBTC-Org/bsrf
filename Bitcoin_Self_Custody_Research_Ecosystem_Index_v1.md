@@ -1,6 +1,6 @@
-# Bitcoin Self-Custody Research Ecosystem
+# Bitcoin Self-Custody Research Ecosystem v1
 
-## Master Index – Recommended Files (v1.3)
+## Master Index – Recommended Files
 
 **Prepared by** Jacques Strydom, PMP (PMI ID: 3160455)  
 **Published by** MoloBTC  
@@ -30,14 +30,13 @@ The `Bitcoin_Sovereignty_Core_Principles_v1.md` and `Global_Framework_Document_v
 ---
 
 ## Tier 1 — Foundational Documents
-
 ### Primary Expansive Documents
 
 | File | Description |
 |------|-------------|
 | `Bitcoin_Sui_Generis_Bearer_Property_Whitepaper_v1.md` | Core jurisprudential foundation establishing Bitcoin as sui generis bearer property |
 | `Bitcoin_Adjacent_Currency_International_Law_Whitepaper_v1.md` | Positions Bitcoin as an adjacent currency and outlines international tax coordination principles |
-| `Tier1_Sovereign_Monetary_Infrastructure_Synthesis.md` | Integrates historical context, risk considerations, and implementation pathways |
+| `Tier1_Executive_Overview_v1.md` | High-level orienting document integrating historical context, risk considerations, and implementation pathways for Tier 1 |
 
 ### Supporting Analyses
 
