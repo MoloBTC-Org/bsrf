@@ -1,6 +1,6 @@
 # Bitcoin Self-Custody Research Ecosystem
 
-## Master Index – Recommended Files (v1.1)
+## Master Index – Recommended Files (v1.3)
 
 **Prepared by** Jacques Strydom, PMP (PMI ID: 3160455)  
 **Published by** MoloBTC  
@@ -11,80 +11,76 @@
 
 ## Overview
 
-This index provides a reference to the recommended Markdown files for the Bitcoin Self-Custody Research Ecosystem. The structure maintains a clear distinction between:
+This index provides a reference to the recommended Markdown files for the Bitcoin Self-Custody Research Ecosystem. The structure is organised to move from high-level principles to detailed operational and jurisdictional analysis.
 
-- **Primary Expansive Documents** — Full-depth papers containing detailed analysis.
-- **Synthesis & Overview Documents** — Connective documents that provide narrative flow, relationships between papers, and reading guidance.
-
-The `Global_Framework_Document_v1.md` serves as the central integrative document for the entire ecosystem.
+The `Bitcoin_Sovereignty_Core_Principles_v1.md` and `Global_Framework_Document_v1.md` serve as the central reference points for the entire ecosystem.
 
 ---
 
-## Tier 1 — Foundational Papers
+## Core Documents
+
+| File | Description |
+|------|-------------|
+| `Bitcoin_Sovereignty_Core_Principles_v1.md` | Authoritative core principles of the framework |
+| `Global_Framework_Document_v1.md` | Central integrative document providing detailed reasoning across Tier 1 and Tier 2 |
+| `PUBLISHING_BASELINE_v1.0.md` | Authoritative publishing standards and document requirements |
+| `Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.3.md` | This document – Master index and navigation guide |
+| `Master_Collation_Database_v1.md` | Central tracking database for document status and research priorities |
+
+---
+
+## Tier 1 — Foundational Documents
 
 ### Primary Expansive Documents
 
 | File | Description |
 |------|-------------|
-| `Bitcoin_Sui_Generis_Bearer_Property_Whitepaper_v1.md` | Core jurisprudential foundation. Establishes self-custodied Bitcoin as *sui generis* bearer property acquired through proof-of-work homesteading. |
-| `Bitcoin_Adjacent_Currency_International_Law_Whitepaper_v1.md` | Positions Bitcoin as an adjacent currency and outlines principles for international tax coordination on realised activity. |
-| `Tier1_Sovereign_Monetary_Infrastructure_Synthesis.md` | Integrates historical context, risk thinking, and implementation pathways. Functions as a central Tier 1 hub document. |
-| `Bitcoin_Sui_Generis_Legal_Bridges_Property_Privacy_v1.md` | Legal analysis connecting Bitcoin to constitutional protections, particularly privacy, property, and protection against compelled speech. |
-| `Bitcoin_Tax_Classifications_Sui_Generis_Analysis_v1.md` | Detailed examination of why traditional tax classifications (currency, capital, commodity, security) fail for Bitcoin. |
+| `Bitcoin_Sui_Generis_Bearer_Property_Whitepaper_v1.md` | Core jurisprudential foundation establishing Bitcoin as sui generis bearer property |
+| `Bitcoin_Adjacent_Currency_International_Law_Whitepaper_v1.md` | Positions Bitcoin as an adjacent currency and outlines international tax coordination principles |
+| `Tier1_Sovereign_Monetary_Infrastructure_Synthesis.md` | Integrates historical context, risk considerations, and implementation pathways |
 
-### Synthesis & Overview Documents
+### Supporting Analyses
 
 | File | Description |
 |------|-------------|
-| `Global_Framework_Document_v1.md` | Central integrative document. Defines the overall two-tier model, core thesis, governance principles, and emerging rights (including the Right to Sovereign Private Compute). Primary entry point for the ecosystem. |
-| `Global_Principles_v1.md` | High-level principles document. Lighter and more accessible than the full Framework Document. |
+| `Bitcoin_Sui_Generis_Legal_Bridges_Property_Privacy_v1.md` | Constitutional, privacy and compelled disclosure analysis |
+| `Bitcoin_Tax_Classifications_Sui_Generis_Analysis_v1.md` | Detailed examination of tax classification challenges for Bitcoin |
+| `Case_Law_Compendium_v1.md` | Multi-jurisdictional case law tracker |
 
 ---
 
-## Tier 2 — Operational Companion Documents
-
-### Primary Expansive Documents
+## Tier 2 — Operational Documents
 
 | File | Description |
 |------|-------------|
-| `Tier2_Centralised_Monetary_Governance.md` | Historical patterns of centralised monetary power and why self-custody matters. |
-| `Tier2_Strategic_Risk_Mitigation_Framework.md` | Risk analysis and mitigation strategies for Bitcoin treasury management and sovereign self-custody. |
-| `Tier2_Critical_Monetary_Infrastructure.md` | Competency frameworks, tooling pathways, and implementation guidance for sovereign self-custody at scale. |
-
-### Synthesis Documents
-
-| File | Description |
-|------|-------------|
-| `Tier2_Full_Document_v1.md` | Combined Tier 2 collection (when completed). Designed for cohesive reading across the operational papers. |
+| `Tier2_Centralised_Monetary_Governance_v1.0.md` | Historical patterns of centralised monetary control and enforcement limitations |
+| `Tier2_Strategic_Risk_Mitigation_Framework_v1.0.md` | Risk taxonomy and defence-in-depth strategies for organisational Bitcoin treasury |
+| `Tier2_Critical_Monetary_Infrastructure_v1.0.md` | Training objectives, tooling pathways, and implementation guidance |
+| `Tier2_Full_Document_v1.md` | Combined Tier 2 collection for cohesive reading |
 
 ---
 
-## Supporting & Governance Documents
+## Actionable Documents
 
 | File | Description |
 |------|-------------|
-| `PUBLISHING_BASELINE_v1.0.md` | Authoritative publishing standards and mandatory alignment requirements for all documents in the repository. |
-| `Case_Law_Compendium_v1.md` | Chronological collection of relevant Bitcoin and crypto-related case law. |
-| `Master_Collation_Database_v1.md` | Reference database tracking regulatory, legal, and policy developments across jurisdictions. |
-| `South_Africa_Public_Comment_Template_v2.md` | Formal objection template for the Draft Capital Flow Management Regulations 2026 (updated with Right to Sovereign Private Compute and regulatory uncertainty protections). |
+| `South_Africa_Public_Comment_Template_v2.md` | Formal objection template for the Draft Capital Flow Management Regulations 2026 |
+
+---
+
+## Nation Documents
+
+All nation-specific documents are located in the `nations/` directory. This folder contains regulatory and legal analysis for multiple jurisdictions. New or updated nation documents will be added to this directory as they are developed. A general overview of the regulatory landscape across jurisdictions is maintained in the `Global_Framework_Document_v1.md`.
 
 ---
 
 ## Recommended Reading Approach
 
-- **Start here**: `Global_Framework_Document_v1.md` — provides the overall structure, thesis, and governance principles.
-- **For maximum depth on foundations**: Move from the Global Framework into the Tier 1 expansive documents.
-- **For practical implementation**: Move from Tier 1 foundations into the Tier 2 risk and infrastructure documents.
-- **For policy and advocacy work**: Use the South Africa Public Comment Template alongside the relevant Tier 1 papers.
-
----
-
-## File Naming Convention
-
-- `*_v1.md` = Recommended / stable version
-- Individual expansive documents use descriptive names
-- Synthesis and overview documents are clearly labelled as such
-- Governance documents are kept at the root level for visibility
+- **Start here**: `Bitcoin_Sovereignty_Core_Principles_v1.md` followed by `Global_Framework_Document_v1.md`
+- **For maximum depth on foundations**: Move into the Tier 1 expansive documents
+- **For operational and risk guidance**: Move into the Tier 2 documents
+- **For policy and advocacy work**: Use the South Africa Public Comment Template alongside relevant Tier 1 analysis
+- **For jurisdiction-specific analysis**: Refer to the documents in the `nations/` directory
 
 ---
 
