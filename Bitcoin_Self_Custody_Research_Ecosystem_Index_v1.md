@@ -34,9 +34,11 @@ The `Bitcoin_Sovereignty_Core_Principles_v1.md` and `Global_Framework_Document_v
 
 | File | Description |
 |------|-------------|
-| `Bitcoin_Sui_Generis_Bearer_Property_Whitepaper_v1.md` | Core jurisprudential foundation establishing Bitcoin as sui generis bearer property |
-| `Bitcoin_Adjacent_Currency_International_Law_Whitepaper_v1.md` | Positions Bitcoin as an adjacent currency and outlines international tax coordination principles |
-| `Tier1_Executive_Overview_v1.md` | High-level orienting document integrating historical context, risk considerations, and implementation pathways for Tier 1 |
+| `Tier1_Sui_Generis_Bearer_Property_v1.md` | Core jurisprudential foundation establishing Bitcoin as sui generis bearer property |
+| `Tier1_Adjacent_Currency_v1.md` | Positions Bitcoin as an adjacent currency and outlines international tax coordination principles |
+| `Tier1_Sovereign_Monetary_Infrastructure_v1.md` | Core substantive paper addressing sovereign monetary infrastructure |
+| `Tier1_Executive_Overview_v1` | High-level orienting and integrative document for Tier 1 |
+| `Tier1_Full_Document_v1.md` | Combined Tier 1 collection |
 
 ### Supporting Analyses
 
