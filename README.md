@@ -1,57 +1,71 @@
 # Bitcoin Sovereignty Research Framework
 
-**A professional research repository focused on the legal, philosophical, and operational foundations of Bitcoin self-custody and monetary sovereignty.**
+**A professional research repository for the legal and policy treatment of Bitcoin as sui generis bearer property and adjacent currency.**
 
 **Canonical Repository:** https://github.com/MoloBTC-Org/bsrf  
-**License:** BSOL v1.0
+**License:** BSOL v1.0  
+**Steward:** Jacques Strydom, PMP
 
 ---
 
 ## Purpose
 
-This repository provides a structured, high-fidelity body of work examining Bitcoin as **sui generis bearer property** and an **adjacent currency** to state-issued money. It combines jurisprudential analysis, historical context, risk frameworks, and practical implementation guidance to support sovereign self-custody at both individual and organisational levels.
+This repository serves as the single source of truth for the **Bitcoin Sovereignty Research Framework**. It provides a structured, high-fidelity body of work that combines jurisprudential foundations with practical operational guidance for self-custodied Bitcoin.
 
-The framework is designed to serve researchers, legal practitioners, policymakers, and organisations seeking clarity on Bitcoin’s unique legal and monetary status.
+The framework is designed to support researchers, legal practitioners, policymakers, and organisations working on Bitcoin sovereignty, self-custody rights, and regulatory clarity.
+
+---
+
+## Core Positions
+
+- Bitcoin is **sui generis bearer property** — it cannot be coherently forced into traditional legal categories of currency, capital, commodity, or security.
+- Bitcoin functions as an **adjacent currency** to state-issued money.
+- Self-custody and the **Right to Sovereign Private Compute** are fundamental rights.
+- Sound policy must maintain a clear distinction between Bitcoin and issuer-dependent crypto assets.
 
 ---
 
 ## Repository Structure
 
-The repository is organised to move from high-level principles to detailed operational guidance:
+The repository is organised to move from high-level principles to detailed analysis:
 
-- **Root Level** — Core principles and integrative documents
+- **Root level** — Core entry documents and governance files
 - **`foundations/`** — Tier 1: Philosophical, jurisprudential, and historical foundations
-- **`operational/`** — Tier 2: Risk, infrastructure, and implementation frameworks
-- **`nations/`** — Country-specific regulatory and legal analysis
+- **`operational/`** — Tier 2: Risk, implementation, and practical guidance
+- **`jurisdictions/`** — Country-specific regulatory and legal analysis
 - **`policy/`** — Actionable policy documents and templates
-- **`supporting/`** — Case law, collation databases, and reference materials
+- **`begin here/`** — Orientation materials for new readers
+- **`supporting/`** — Case law, references, and deep analysis
 
 ---
 
-## Key Documents
+## How to Navigate
 
-| Document | Description |
-|----------|-------------|
-| `Bitcoin_Sovereignty_Core_Principles_v1.md` | Authoritative core principles of the framework |
-| `Global_Framework_Document_v1.md` | Central bridging document with detailed reasoning |
-| `PUBLISHING_BASELINE_v1.0.md` | Authoritative publishing and document standards |
-| `Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.1.md` | Master index and recommended reading paths |
+| Audience                        | Recommended Starting Point                              |
+|--------------------------------|---------------------------------------------------------|
+| Policymakers & Legal Researchers | `Bitcoin_Sovereignty_Core_Principles_v1.md` + relevant jurisdiction |
+| Board / Executive Leadership    | `Global_Framework_Document_v1.md` + Tier 2 Risk documents |
+| Technical & Security Teams      | `operational/` folder + Critical Monetary Infrastructure |
+| General Self-Custody Practitioners | `begin here/` folder + Core Principles |
+
+A detailed reading guide is maintained in the `Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.3.md`.
 
 ---
 
-## Getting Started
+## Publishing Standards
 
-1. Begin with `Bitcoin_Sovereignty_Core_Principles_v1.md` for the foundational principles.
-2. Read `Global_Framework_Document_v1.md` for deeper context and integration between Tier 1 and Tier 2.
-3. Use `Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.1.md` to navigate the full body of work.
+All documents must comply with the **Bitcoin Sovereignty Publishing Baseline v1.0**.
+
+See: [PUBLISHING_BASELINE_v1.0.md](PUBLISHING_BASELINE_v1.0.md)
 
 ---
 
 ## Governance
 
-All documents in this repository are expected to conform to the **Bitcoin Sovereignty Publishing Baseline v1.0**.
+This repository operates under the **Bitcoin Sovereign Open Source License (BSOL) v1.0**.
 
-The repository is maintained under the **Bitcoin Sovereign Open Source License (BSOL) v1.0**.
+- Read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+- The Publishing Baseline is a protected document. Changes require explicit maintainer approval.
 
 ---
 
