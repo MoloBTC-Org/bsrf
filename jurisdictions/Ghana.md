@@ -2,7 +2,7 @@
 
 **Bitcoin Regulation, Self-Custody & Sui Generis Treatment**
 
-**Updated:** 26 June 2026
+**Updated:** 3 September 2026
 
 **Prepared by** Jacques Strydom, PMP (PMI ID: 3160455)  
 **Published by** MoloBTC  
@@ -10,65 +10,60 @@
 
 ---
 
+
 ## Executive Summary
 
-Ghana has taken a significant step toward formal crypto regulation with the passage of the Virtual Asset Service Providers (VASP) Act 2025. The law establishes a licensing and compliance framework for virtual asset businesses, legalising cryptocurrency trading and related activities while introducing consumer protection and AML/CTF measures.
+Ghana enacted the **Virtual Asset Service Providers Act 2025 (Act 1154)** on **19 December 2025**. The Bank of Ghana is the primary licensing authority through a Virtual Assets Regulatory Office (VARO), working with the Securities and Exchange Commission and the Financial Intelligence Centre.
 
-Bitcoin is recognised for trading purposes but is not legal tender. Self-custody is permitted.
+In **March 2026** the SEC admitted eleven firms to a twelve-month sandbox as the first operational test of the new law. Self-custody by individuals is not prohibited. Bitcoin is not legal tender.
 
----
+## 1. Historical Thread
 
-## 1. Regulatory Framework
+- Bank of Ghana draft guidelines and VASP registration as an AML precursor (2025).
+- **19 December 2025**: Act 1154 passed.
+- Registration / licensing runway into 2026 (industry reporting cited an early-March licensing deadline for some categories).
+- **March 2026**: SEC sandbox cohort of eleven firms announced.
 
-- **Virtual Asset Service Providers (VASP) Act 2025**: Establishes licensing requirements for exchanges, wallet providers, custodians, and payment platforms.
-- **Oversight**: Shared between the Bank of Ghana and the Securities and Exchange Commission, depending on the nature of services.
-- **Self-Custody**: Permitted for individuals. The regulatory focus is on licensed service providers.
+## 2. Current Regulatory Overview
 
----
+### Licensing
+VASPs — exchanges, wallet providers, custodians, payment platforms — require authorisation. VARO at the Bank of Ghana is the dedicated office. SEC Ghana runs the sandbox and capital-markets overlay where tokens behave like securities.
 
-## 2. Taxation
+### Taxation
+No standalone crypto tax code identified. General tax principles apply to gains and business income.
 
-Specific tax treatment for cryptocurrency in Ghana remains developing. General tax principles are expected to apply to gains and business activities involving virtual assets.
+### Self-custody
+Permitted. The Act regulates service businesses.
 
----
+## 3. Key Players
 
-## 3. Key Developments (2025–2026)
-
-- Passage of the VASP Act 2025, creating a formal licensing regime.
-- Transition toward full implementation of the regulatory framework in 2026.
-
----
-
-## 4. Key Players
-
-- Bank of Ghana
-- Securities and Exchange Commission
+- Bank of Ghana (VARO)
+- Securities and Exchange Commission Ghana
 - Financial Intelligence Centre
 
----
+## 4. Platforms for Advocacy
 
-## 5. Philosophical & Legal Alignment
+- VARO licensing practice.
+- SEC sandbox reporting and any conversion of sandbox firms into full licences.
 
-Ghana’s new framework legalises and regulates virtual asset activities while permitting individual self-custody. This represents a move toward greater regulatory clarity and is broadly compatible with the sui generis treatment of Bitcoin when the distinction between service providers and individual users is maintained.
+## 5. Philosophical & Legal Synthesis
 
----
+Act 1154 is a service-provider statute. It legalises a market that previously sat in ambiguity. It does not classify Bitcoin as legal tender or as *sui generis* property. The sandbox is useful evidence that the state is prepared to supervise Bitcoin-adjacent businesses without banning self-custody.
 
 ## 6. Adoption Implications
 
-Ghana’s new VASP regime provides a clearer legal pathway for crypto businesses while supporting individual use. The jurisdiction is moving from a relatively unregulated environment to a structured framework, which may support more sustainable growth in the sector.
-
----
+- Licensed and sandboxed venues will be the compliant on-ramps.
+- Private holding remains available.
 
 ## Next Steps
 
-1. Monitor the rollout and implementation of the VASP licensing regime in 2026.
-2. Track any tax guidance specific to virtual assets.
-3. Use Ghana as a case study of an African jurisdiction formalizing crypto regulation.
+1. Record VARO’s first full licences when published.
+2. Follow sandbox outcomes at the twelve-month mark (March 2027).
+3. Watch whether Bank of Ghana issues a payments rule that treats Bitcoin transfers as e-money.
 
----
+## Truth & Clarity Summary
 
-**Truth & Clarity Summary**  
-Ghana has enacted the Virtual Asset Service Providers (VASP) Act 2025, creating a formal licensing framework for crypto businesses. Self-custody remains permitted for individuals. The jurisdiction is transitioning toward a more structured regulatory environment.
+Ghana has a 2025 VASP Act and a live 2026 sandbox. Self-custody is not the target of the statute. Bitcoin is still grouped with other virtual assets.
 
 ---
 
@@ -79,3 +74,4 @@ Ghana has enacted the Virtual Asset Service Providers (VASP) Act 2025, creating 
 **License:** Released under the Bitcoin Sovereign Open Source License (BSOL) v1.0.
 
 **Canonical Repository:** https://github.com/MoloBTC-Org/bsrf
+
