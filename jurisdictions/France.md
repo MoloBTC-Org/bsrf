@@ -1,8 +1,8 @@
-# France Nation Document
+# France – Legislative Framework
 
 **Bitcoin Regulation, Self-Custody & Sui Generis Treatment**
 
-**Updated:** 25 June 2026
+**Updated:** 3 September 2026
 
 **Prepared by** Jacques Strydom, PMP (PMI ID: 3160455)  
 **Published by** MoloBTC  
@@ -12,31 +12,59 @@
 
 ## Executive Summary
 
-France has implemented the EU’s **Markets in Crypto-Assets (MiCA)** regulation, creating one of the clearer licensing frameworks in Europe. A major positive development in June 2026 was **Bull Bitcoin** successfully obtaining a MiCA license while maintaining a strong cypherpunk, self-custodial, and privacy-focused model — proving that regulatory compliance does not require compromising on Bitcoin’s core principles.
+France operates a dual regulatory reality for Bitcoin and crypto-assets.
 
-Taxation remains relatively straightforward: a flat **30% PFU** (Prélèvement Forfaitaire Unique) on realised capital gains from crypto-to-fiat disposals or use in commerce (with a small €305 annual exemption). Crypto-to-crypto trades are generally not taxed. Self-custody is respected and not under direct attack.
+On the positive side, the full application of the EU Markets in Crypto-Assets (MiCA) regulation has produced one of the clearer licensing frameworks in Europe. Bull Bitcoin’s successful MiCA authorisation (via its French entity LEONOD SARL) while preserving a strongly self-custodial, Bitcoin-only model remains a significant precedent.
 
-The supporting analyses support positioning Bitcoin as a **sui generis adjacent currency** in France, with taxation limited to realised economic activity.
+On the critical side, France transposed the EU DAC8 directive through **Decree No. 2025-1276** of 19 December 2025. Since 1 January 2026, Crypto-Asset Service Providers must systematically collect and report user identity and transaction data for automatic exchange across Member States. On **24 February 2026**, Bull Bitcoin filed a summary petition before the **Conseil d’État** seeking annulment of that decree — the first major legal challenge to a national DAC8 transposition in the European Union.
+
+Taxation remains a flat 30% PFU on realised crypto-to-fiat gains (with a €305 annual exemption). Crypto-to-crypto trades are generally not taxed. Self-custody itself is not prohibited, but the DAC8 reporting architecture creates permanent identity-linked records of public-blockchain activity, raising acute privacy and physical-security concerns.
 
 ---
 
 ## 1. Historical Thread
 
-France was an early mover in Europe with the 2019 PACTE Act, which created a registration regime for Digital Asset Service Providers (DASPs). This evolved into full MiCA alignment. France has generally taken a pragmatic but firm regulatory stance, balancing innovation with consumer protection and AML requirements. The 2026 full application of MiCA marked the end of the transitional period for existing providers.
+- **2019 PACTE Act**: Created the original Digital Asset Service Provider (DASP) registration regime.
+- **2023–2025**: Progressive alignment with MiCA; transitional arrangements for existing providers.
+- **2026**: Full MiCA application. Bull Bitcoin obtains MiCA licence while retaining its non-custodial model.
+- **19 December 2025**: Decree No. 2025-1276 transposes DAC8 into French law.
+- **1 January 2026**: DAC8 reporting obligations begin to apply.
+- **24 February 2026**: Bull Bitcoin files summary petition before the Conseil d’État challenging the decree.
 
 ---
 
 ## 2. Current Regulatory Overview
 
-- **Licensing**: All crypto-asset service providers must be authorised as CASPs under MiCA by the AMF. The Bull Bitcoin license (June 2026) demonstrates that self-custodial Bitcoin businesses can obtain authorisation without outsourcing core infrastructure or compromising user privacy.
-- **Taxation**:
-  - Flat tax of **30%** (12.8% income tax + 17.2% social contributions) on net capital gains from disposals (crypto-to-fiat or use to purchase goods/services).
-  - Crypto-to-crypto trades are generally not taxable events.
-  - Annual exemption threshold of **€305** in gains.
-  - No long-term holding exemption (unlike Germany).
-  - Professional trading activity may be taxed under different regimes (BNC/BIC).
-- **Self-custody**: Not restricted. The successful licensing of Bull Bitcoin while preserving self-custody features is a significant positive signal.
-- **Reporting**: France is implementing DAC8/CARF, increasing reporting obligations on service providers.
+### Licensing (MiCA)
+All crypto-asset service providers must be authorised as CASPs by the Autorité des Marchés Financiers (AMF). The Bull Bitcoin authorisation demonstrates that a Bitcoin-only, non-custodial model can satisfy MiCA requirements without surrendering core architectural principles.
+
+### Taxation
+- Flat **30% PFU** (12.8% income tax + 17.2% social contributions) on net capital gains from crypto-to-fiat disposals or use in commerce.
+- Annual exemption of **€305**.
+- Crypto-to-crypto exchanges are generally not taxable events.
+- Professional trading may fall under BNC/BIC regimes.
+- No long-term holding exemption comparable to Germany’s one-year rule.
+
+### Self-Custody
+Self-custody is not restricted by statute. The practical ability to transact through regulated channels, however, is now conditioned on extensive identity and transaction reporting under DAC8.
+
+### Reporting – DAC8 and the Conseil d’État Challenge
+DAC8 (Directive (EU) 2023/2226) requires CASPs to collect and transmit detailed user identity and transaction data to national tax authorities for automatic exchange between Member States (and, via CARF, with a wider set of jurisdictions).
+
+**Bull Bitcoin’s action (24 February 2026)**  
+Bull Bitcoin filed a *requête sommaire* before the Conseil d’État seeking annulment of Decree No. 2025-1276. A substantive brief (*mémoire ampliatif*) has followed. The principal grounds advanced are:
+
+1. Over-transposition / excess of power.
+2. Procedural irregularity in the adoption of the decree.
+3. Disproportionate infringement of fundamental rights — particularly Articles 7 and 8 of the EU Charter of Fundamental Rights (privacy and protection of personal data), read with the proportionality requirements of Article 52.
+
+The challenge emphasises that linking civil identity and home address to a permanent, public, immutable blockchain transaction history creates unique physical-security risks (kidnappings and “wrench attacks”) that traditional financial reporting does not generate. Bull Bitcoin has published a comprehensive reference site (dac8.com) and frames the French case as the opening front of a broader strategy that may include a preliminary reference to the Court of Justice of the European Union.
+
+
+### Data-security illustration — DGFiP breach (August 2026)
+On 13–14 August 2026 the Direction Générale des Finances Publiques confirmed that an intrusion in late June 2026 had allowed consultation and extraction of data concerning individuals and professionals. A claimant using the alias “ZeroBytes” advertised taxpayer records for sale. Specialist trackers cited hundreds of thousands of affected files; the authority stated that several hundred thousand users were concerned and that CNIL had been notified. This incident does not decide the Conseil d’État case. It is contemporaneous evidence that identity-linked tax databases are high-value targets — the physical-security concern already pleaded against DAC8.
+
+A decision on the merits is realistically expected within 12–24 months. First reporting of 2026 data is due in 2027.
 
 ---
 
@@ -44,41 +72,51 @@ France was an early mover in Europe with the 2019 PACTE Act, which created a reg
 
 - Autorité des Marchés Financiers (AMF)
 - Direction Générale des Finances Publiques (DGFiP)
-- Bull Bitcoin (recent MiCA licensee)
-- Industry associations and Bitcoin advocacy groups in France
+- Bull Bitcoin / LEONOD SARL (MiCA licensee and Conseil d’État applicant)
+- Industry associations and French Bitcoin advocacy groups
 
 ---
 
 ## 4. Platforms for Advocacy
 
-- Public consultation processes on EU and national rules
-- Engagement with AMF and industry bodies
-- Bitcoin advocacy organisations in France
-
----
+- Conseil d’État proceedings on Decree No. 2025-1276 (Bull Bitcoin / LEONOD SARL).
+- AMF CASP authorisation practice under MiCA.
+- Reference materials published at dac8.com by the applicant.
+- CNIL in respect of personal-data consequences of DAC8 databases.
 
 ## 5. Philosophical & Legal Synthesis
 
-France operates within the EU legal framework but retains some national flexibility in taxation and enforcement. The sui generis nature of self-custodied Bitcoin aligns well with principles of property rights and privacy. The successful licensing of a strongly self-custodial Bitcoin business (Bull Bitcoin) under MiCA provides a positive precedent that regulatory compliance and Bitcoin’s core principles are not inherently in conflict.
+France illustrates the tension at the heart of the current European approach:
+
+- MiCA provides a workable licensing pathway that can accommodate strong self-custody models.
+- DAC8 imposes a mass, automated, identity-linked reporting regime whose proportionality is now being tested in the highest French administrative court.
+
+The unique characteristics of Bitcoin — permanent public ledgers, bearer control via private keys, and the physical risks created when those ledgers are permanently tied to civil identity — make the DAC8 architecture particularly consequential. The Bull Bitcoin challenge is therefore not merely a tax-reporting dispute; it is a fundamental-rights and proportionality test of whether the specific nature of crypto-assets can be ignored when designing mass surveillance-style reporting systems.
+
+This aligns directly with the framework’s emphasis on Bitcoin as sui generis bearer property and on the limits of treating cryptographic control as equivalent to traditional financial accounts.
 
 ---
 
 ## 6. Adoption Implications
 
-France currently offers one of the more favourable regulatory environments in Europe for self-custodial Bitcoin activity, particularly following the Bull Bitcoin MiCA licensing success. The combination of clear (if imperfect) rules and a pragmatic regulator makes it an important reference point for other EU jurisdictions.
+- Self-custody remains legally possible and is not under direct legislative attack.
+- Regulated on-ramps and service providers are now subject to extensive DAC8 obligations, increasing the privacy cost of using compliant platforms.
+- The outcome of the Conseil d’État proceedings (and any subsequent CJEU reference) will be a key indicator of how far EU Member States may go in linking identity to public-blockchain activity.
+- France remains one of the more important European reference jurisdictions precisely because both a successful self-custodial MiCA licence and a serious fundamental-rights challenge to DAC8 coexist.
 
 ---
 
 ## Next Steps
 
-1. Monitor ongoing MiCA implementation and any national-level guidance from the AMF.
-2. Track tax treatment developments, particularly around reporting obligations.
-3. Use France as a case study for demonstrating that strong self-custody models can coexist with regulatory frameworks.
+1. Monitor the Conseil d’État proceedings and any interim measures or preliminary reference to the CJEU.
+2. Track the first DAC8 reporting cycle (2026 data, due 2027) and practical compliance burden on CASPs.
+3. Maintain the Bull Bitcoin MiCA licence as a positive precedent for self-custodial models within regulated frameworks.
+4. Update this document promptly upon any significant procedural or substantive development in the DAC8 litigation.
 
 ---
 
 **Truth & Clarity Summary**  
-France represents a relatively constructive regulatory environment within the EU, highlighted by Bull Bitcoin’s successful MiCA licensing while preserving self-custodial principles. The sui generis and adjacent currency arguments remain relevant, particularly in taxation and classification debates.
+France currently offers a relatively clear MiCA licensing pathway that has accommodated a strongly self-custodial Bitcoin business. At the same time, its transposition of DAC8 is the subject of the first major fundamental-rights challenge in the European Union. The tension between workable regulation and mass identity-linked reporting of public-blockchain activity is now before the Conseil d’État. Self-custody itself remains lawful; the privacy and physical-security consequences of DAC8 are the live issue.
 
 ---
 
