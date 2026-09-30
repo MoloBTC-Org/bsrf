@@ -1,7 +1,10 @@
 # Bitcoin Sovereignty Publishing Baseline v1.0
 
 **Status**: Authoritative and Protected  
-**Applies to**: All documents in the Bitcoin Sovereignty Research Framework repository
+**Applies to**: All documents in the Bitcoin Sovereignty Research Framework repository  
+**Filename on disk**: `PUBLISHING_BASELINE_v1.md`  
+**Document version**: 1.0  
+**Amended**: 30 September 2026 (§5 placement and §6 versioning aligned to the live tree)
 
 ## 1. Purpose
 
@@ -26,13 +29,13 @@ Documents that contradict these positions will not be accepted.
 Every document must include:
 
 1. Title
-2. Version number (e.g. v1.0)
+2. Version identifier (the file suffix `_v1.md` or an `Updated:` date line for jurisdiction notes)
 3. Published by line (MoloBTC)
-4. License reference (BSOL v1.0)
-5. Executive Summary
+4. License reference (Bitcoin Sovereign Open Source License (BSOL) v1.0)
+5. Executive Summary (jurisdiction notes may use Purpose in its place)
 6. Clear section headings
 7. Conclusion or Truth & Clarity Summary
-8. Cross-references to related documents where appropriate
+8. Cross-references to related documents where appropriate, using live paths
 
 ## 4. Tone and Language
 
@@ -43,19 +46,28 @@ Every document must include:
 
 ## 5. Document Placement
 
-Documents should be placed in the appropriate folder:
+Place each file in the folder that matches the work. Do not create folders that are not on this list.
 
-- **Tier 1 Foundations** → `foundations/`
-- **Tier 2 Operational** → `operational/`
-- **Jurisdiction-specific analysis** → `jurisdictions/`
-- **Policy and templates** → `policy/`
-- **Supporting materials** → `supporting/`
+- Orientation, Core Principles, Global Framework, Index, Collation → `begin_here/`
+- Tier 1 papers → `foundations/`
+- Tier 1 supporting analyses → `foundations/supporting/`
+- Tier 2 papers → `operational/`
+- Country legislative and regulatory notes (law track) → `jurisdictions/` as `{Country}.md`
+- Mining or sovereign-reserve annexes → only inside that country’s folder (`jurisdictions/Bhutan/`, `jurisdictions/Kazakhstan/`)
+- Tax, reporting, capital-flow notes and filed tax / FinSurv instruments → `tax_track/`
+- Instructional material → `education_track/`
+- Root governance → `README.md`, `CONTRIBUTING.md`, `LICENSE.md`, this Baseline, the Declaration, the Open Letter
+- GitHub scaffolding → `.github/`
+
+There is no `policy/`, no `nations/`, no `nation-specific/`, and no top-level `supporting/` folder. Policy letters and comment templates live next to the jurisdiction they address.
 
 ## 6. Versioning
 
-- Major documents use semantic versioning (`_v1.0.md`, `_v1.1.md`)
-- Significant changes to core positions require a version increment
-- Minor formatting edits may use date stamps
+- Frozen framework papers use the suffix `_v1.md` on disk. The Baseline’s own document version remains **v1.0**.
+- A later edition of a frozen paper becomes `_v1.1.md` or `_v2.md` only when core positions change. Minor formatting keeps `_v1.md` and updates the date line.
+- Jurisdiction notes on both tracks use `Updated: YYYY-MM-DD` and do not require a `_v1.md` suffix.
+- Work in progress on `tax_track/` may keep `_v0.1.md` until the paper is frozen.
+- Filed instruments (SARS letter, FinSurv Annexure A, CFM objection, Open Letter) keep their filing filenames. They are dated records. Do not rename them to match this section.
 
 ## 7. Review Process
 
