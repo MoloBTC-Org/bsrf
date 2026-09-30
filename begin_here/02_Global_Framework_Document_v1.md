@@ -133,7 +133,9 @@ Each pathway must remain consistent with the foundational principles of self-cus
 
 ## 6. Governance and Publishing Standards
 
-All documents within this repository must conform to the **Bitcoin Sovereignty Publishing Baseline v1.0**.
+All documents within this repository must conform to the **Bitcoin Sovereignty Publishing Baseline**.
+
+See `PUBLISHING_BASELINE_v1.md` at the repository root.
 
 The Baseline governs:
 - Document structure and required sections
@@ -152,11 +154,18 @@ This repository operates under the **Bitcoin Sovereign Open Source License (BSOL
 
 ## 7. Repository Structure
 
-The repository is organised to reflect the framework’s two-tier model. Tier 1 contains five documents: the three core thematic papers (`Tier1_Sui_Generis_Bearer_Property_v1.md`, `Tier1_Adjacent_Currency_v1.md`, and `Tier1_Sovereign_Monetary_Infrastructure_v1.md`), the `Tier1_Executive_Overview_v1` (the integrative orienting document for the tier), and `Tier1_Full_Document_v1.md` (the combined version).
+The live tree is:
 
-Tier 2 follows a parallel structure with five documents, including its own `Tier2_Executive_Overview_v1.0.md`.
+- `begin_here/` — Core Principles (`01`), Global Framework (`02`), Ecosystem Index (`03`), Master Collation Database (`04`)
+- `foundations/` — Tier 1 (`01`–`05`) and `foundations/supporting/`
+- `operational/` — Tier 2 (`01`–`05`)
+- `jurisdictions/` — law-track country notes
+- `tax_track/` — tax-track country notes and filed tax / FinSurv instruments
+- `education_track/` — instructional notes
 
-A detailed and maintained view of the full repository structure is available in `Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.3.md` and `Master_Collation_Database_v1.md`.
+A maintained map is `begin_here/03_Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.md`. Status is `begin_here/04_Master_Collation_Database_v1.md`.
+
+Tier 1 on disk uses prefixed `_v1.md` names (`foundations/02_Tier1_Sui_Generis_Bearer_Property_v1.md`, and the same pattern for `03` and `04`). Tier 2 on disk uses `operational/0N_…_v1.md`, not `_v1.0.md`.
 
 ---
 
