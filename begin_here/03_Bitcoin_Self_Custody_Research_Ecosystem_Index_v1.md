@@ -1,92 +1,89 @@
-# Bitcoin Self-Custody Research Ecosystem v1
+# Bitcoin Self-Custody Research Ecosystem
 
-## Master Index – Recommended Files
+## Master Index
 
 **Prepared by** Jacques Strydom, PMP (PMI ID: 3160455)  
 **Published by** MoloBTC  
 **In collaboration with** Grok (built by xAI)  
-**June 2026 | BSOL v1.0**
-
----
+**Updated:** 29 September 2026  
+**License:** Bitcoin Sovereign Open Source License (BSOL) v1.0
 
 ## Overview
 
-This index provides a reference to the recommended Markdown files for the Bitcoin Self-Custody Research Ecosystem. The structure is organised to move from high-level principles to detailed operational and jurisdictional analysis.
+This index points at the live folders. It does not list every country file. New jurisdiction notes are added under `jurisdictions/` or `tax_track/jurisdictions/` without a change to this page.
 
-The `Bitcoin_Sovereignty_Core_Principles_v1.md` and `Global_Framework_Document_v1.md` serve as the central reference points for the entire ecosystem.
+Authority for the thesis is `begin_here/01_Bitcoin_Sovereignty_Core_Principles_v1.md`.
 
----
-
-## Core Documents
+## Core documents
 
 | File | Description |
 |------|-------------|
-| `Bitcoin_Sovereignty_Core_Principles_v1.md` | Authoritative core principles of the framework |
-| `Global_Framework_Document_v1.md` | Central integrative document providing detailed reasoning across Tier 1 and Tier 2 |
-| `PUBLISHING_BASELINE_v1.0.md` | Authoritative publishing standards and document requirements |
-| `Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.3.md` | This document – Master index and navigation guide |
-| `Master_Collation_Database_v1.md` | Central tracking database for document status and research priorities |
+| `begin_here/01_Bitcoin_Sovereignty_Core_Principles_v1.md` | Authoritative core principles |
+| `begin_here/02_Global_Framework_Document_v1.md` | Integrative document across Tier 1 and Tier 2 |
+| `PUBLISHING_BASELINE_v1.md` | Publishing standards |
+| `begin_here/03_Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.md` | This index |
+| `begin_here/04_Master_Collation_Database_v1.md` | Status of papers and tracks |
 
----
-
-## Tier 1 — Foundational Documents
-### Primary Expansive Documents
+## Tier 1 — `foundations/`
 
 | File | Description |
 |------|-------------|
-| `Tier1_Sui_Generis_Bearer_Property_v1.md` | Core jurisprudential foundation establishing Bitcoin as sui generis bearer property |
-| `Tier1_Adjacent_Currency_v1.md` | Positions Bitcoin as an adjacent currency and outlines international tax coordination principles |
-| `Tier1_Sovereign_Monetary_Infrastructure_v1.md` | Core substantive paper addressing sovereign monetary infrastructure |
-| `Tier1_Executive_Overview_v1` | High-level orienting and integrative document for Tier 1 |
-| `Tier1_Full_Document_v1.md` | Combined Tier 1 collection |
+| `foundations/01_Tier1_Executive_Overview_v1.md` | Filename says overview; body is presently a sovereign-monetary-infrastructure essay (see collation) |
+| `foundations/02_Tier1_Sui_Generis_Bearer_Property_v1.md` | Bearer-property paper |
+| `foundations/03_Tier1_Adjacent_Currency_v1.md` | Adjacent-currency paper |
+| `foundations/04_Tier1_Sovereign_Monetary_Infrastructure_v1.md` | Sovereign monetary infrastructure paper |
+| `foundations/05_Tier1_Full_Document_v1.md` | Filename says full collection; body is presently a short reading guide (see collation) |
 
-### Supporting Analyses
-
-| File | Description |
-|------|-------------|
-| `Bitcoin_Sui_Generis_Legal_Bridges_Property_Privacy_v1.md` | Constitutional, privacy and compelled disclosure analysis |
-| `Bitcoin_Tax_Classifications_Sui_Generis_Analysis_v1.md` | Detailed examination of tax classification challenges for Bitcoin |
-| `Case_Law_Compendium_v1.md` | Multi-jurisdictional case law tracker |
-
----
-
-## Tier 2 — Operational Documents
+### Supporting analyses — `foundations/supporting/`
 
 | File | Description |
 |------|-------------|
-| `Tier2_Centralised_Monetary_Governance_v1.0.md` | Historical patterns of centralised monetary control and enforcement limitations |
-| `Tier2_Strategic_Risk_Mitigation_Framework_v1.0.md` | Risk taxonomy and defence-in-depth strategies for organisational Bitcoin treasury |
-| `Tier2_Critical_Monetary_Infrastructure_v1.0.md` | Training objectives, tooling pathways, and implementation guidance |
-| `Tier2_Full_Document_v1.md` | Combined Tier 2 collection for cohesive reading |
+| `foundations/supporting/Bitcoin_Sui_Generis_Legal_Bridges_Property_Privacy_v1.md` | Property, privacy and compelled disclosure |
+| `foundations/supporting/Bitcoin_Tax_Classifications_Sui_Generis_Analysis_v1.md` | Tax classification analysis |
+| `foundations/supporting/Case_Law_Compendium_v1.md` | Multi-jurisdictional case-law tracker |
 
----
-
-## Actionable Documents
+## Tier 2 — `operational/`
 
 | File | Description |
 |------|-------------|
-| `South_Africa_Public_Comment_Template_v2.md` | Formal objection template for the Draft Capital Flow Management Regulations 2026 |
+| `operational/01_Tier2_Executive_Overview_v1.md` | Tier 2 overview |
+| `operational/02_Tier2_Centralised_Monetary_Governance_v1.md` | Centralised monetary control |
+| `operational/03_Tier2_Strategic_Risk_Mitigation_Framework_v1.md` | Risk taxonomy |
+| `operational/04_Tier2_Critical_Monetary_Infrastructure_v1.md` | Implementation guidance |
+| `operational/05_Tier2_Full_Document_v1.md` | Combined Tier 2 collection |
 
----
+## Law track — `jurisdictions/`
 
-## Nation Documents
+Country legislative notes live here as `{Country}.md`. Mining or sovereign-reserve annexes live only inside that country’s folder (`Bhutan/`, `Kazakhstan/`). South African filed law-track instruments sit in `jurisdictions/South_Africa/`.
 
-All nation-specific documents are located in the `nations/` directory. This folder contains regulatory and legal analysis for multiple jurisdictions. New or updated nation documents will be added to this directory as they are developed. A general overview of the regulatory landscape across jurisdictions is maintained in the `Global_Framework_Document_v1.md`.
+Do not use a `nations/` folder.
 
----
+## Tax track — `tax_track/`
 
-## Recommended Reading Approach
+Nation files use `{Country}.md` titled “{Country} – Tax Framework”. Instruments (letters, Annexure A, binding rulings) are sections or sibling files, not the nation filename.
 
-- **Start here**: `Bitcoin_Sovereignty_Core_Principles_v1.md` followed by `Global_Framework_Document_v1.md`
-- **For maximum depth on foundations**: Move into the Tier 1 expansive documents
-- **For operational and risk guidance**: Move into the Tier 2 documents
-- **For policy and advocacy work**: Use the South Africa Public Comment Template alongside relevant Tier 1 analysis
-- **For jurisdiction-specific analysis**: Refer to the documents in the `nations/` directory
+Filed South African instruments:
 
----
+- `tax_track/jurisdictions/South_Africa/Objection_and_Recommendations_SARS_Draft_Guide_Taxation_Crypto_Assets_2026.md` (filed 31 August 2026)
+- `tax_track/jurisdictions/South_Africa/FinSurv_Draft_Manual/Annexure_A_Comments_Draft_Crypto_Asset_Manual_Cross_Border_2026.md` (filed 29 September 2026)
+- `tax_track/jurisdictions/South_Africa/South_Africa_CARF_Implementation_Status.md`
 
-**License:** Released under the Bitcoin Sovereign Open Source License (BSOL) v1.0.
+Law-track CFM objection (filed 30 June 2026):
+
+- `jurisdictions/South_Africa/Objection_Letter_Draft_Capital_Flow_Management_Regulations_2026.md`
+
+There is no file named `South_Africa_Public_Comment_Template_v2.md`.
+
+## Education track — `education_track/`
+
+Instructional notes, including Mi Primer Bitcoin material.
+
+## Recommended reading
+
+1. `begin_here/01_Bitcoin_Sovereignty_Core_Principles_v1.md`
+2. `begin_here/02_Global_Framework_Document_v1.md`
+3. The three papers in `foundations/02`–`04`
+4. `operational/` for risk and implementation
+5. The relevant country folder under `jurisdictions/` and, where opened, `tax_track/jurisdictions/`
 
 **Canonical Repository:** https://github.com/MoloBTC-Org/bsrf
-
-This index will be updated as new material is added to the ecosystem.

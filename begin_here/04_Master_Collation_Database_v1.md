@@ -1,109 +1,89 @@
 # Master Collation Database
 
 **Supporting Document**  
-**Bitcoin Self-Custody Research Framework**
+**Bitcoin Sovereignty Research Framework**
 
 **Prepared by** Jacques Strydom, PMP (PMI ID: 3160455)  
 **Published by** MoloBTC  
 **In collaboration with** Grok (built by xAI)
 
-**June 2026 | BSOL v1.0**
+**Updated:** 29 September 2026  
+**License:** Bitcoin Sovereign Open Source License (BSOL) v1.0
 
 ---
 
 ## Purpose
 
-This document serves as the central tracking database for the Bitcoin Sovereignty Research Framework. It records the current status of all major documents, key legal developments, and research priorities.
+Status of the live tree. This page names folders and the core papers. It does not enumerate every jurisdiction file.
 
 ---
 
-## Core Documents
+## Core documents
 
 | Document | Status | Notes |
 |----------|--------|-------|
-| `Bitcoin_Sovereignty_Core_Principles_v1.md` | Complete | Authoritative core principles of the framework |
-| `Global_Framework_Document_v1.md` | Complete | Central bridging and integrative document |
-| `PUBLISHING_BASELINE_v1.0.md` | Complete | Authoritative publishing and document standards |
-| `Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.1.md` | Complete | Master index and recommended reading paths |
-| `Master_Collation_Database_v1.md` | Current | This document |
+| `begin_here/01_Bitcoin_Sovereignty_Core_Principles_v1.md` | Canonical | Nine principles. Authority for the thesis. |
+| `begin_here/02_Global_Framework_Document_v1.md` | Canonical | Integrative document. Sections 6–7 filenames corrected 29 September 2026. |
+| `PUBLISHING_BASELINE_v1.md` | Canonical | Protected. Internal §5–§6 still describe `policy/` and `_v1.0.md`; amend Baseline later, do not rename the corpus. |
+| `begin_here/03_Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.md` | Current | Index. Not v1.3. |
+| `begin_here/04_Master_Collation_Database_v1.md` | Current | This document. |
+| `LICENSE.md` | Canonical | Bitcoin Sovereign Open Source License (BSOL) v1.0 |
+| `Open_Letter_Bitcoin_Separation.md` | Canonical as dated record | 30 June 2026 publication. Do not edit as if it were a living paper. |
 
 ---
 
-## Tier 1 — Foundational Documents
-
-### Primary Whitepapers
+## Tier 1 — `foundations/`
 
 | Document | Status | Notes |
 |----------|--------|-------|
-| `Tier1_Sui_Generis_Bearer_Property_v1.md` | Complete | Core jurisprudential foundation |
-| `Tier1_Adjacent_Currency_v1.md` | Complete | International law and tax coordination framework |
-| `Tier1_Sovereign_Monetary_Infrastructure_v1.md` | Complete | Core substantive paper on sovereign monetary infrastructure |
-| `Tier1_Executive_Overview_v1` | Complete | High-level orienting document for Tier 1 |
-| `Tier1_Full_Document_v1.md` | Complete | Combined Tier 1 collection |
+| `01_Tier1_Executive_Overview_v1.md` | Name/body mismatch | Body is a sovereign-monetary-infrastructure essay, not a map of the three papers. |
+| `02_Tier1_Sui_Generis_Bearer_Property_v1.md` | Canonical | |
+| `03_Tier1_Adjacent_Currency_v1.md` | Canonical | |
+| `04_Tier1_Sovereign_Monetary_Infrastructure_v1.md` | Canonical | |
+| `05_Tier1_Full_Document_v1.md` | Name/body mismatch | Body is a short reading guide, not a compilation of `02`–`04`. |
 
-### Supporting Analyses
-
-| Document | Status | Notes |
-|----------|--------|-------|
-| `Bitcoin_Sui_Generis_Legal_Bridges_Property_Privacy_v1.md` | Complete | Constitutional, privacy and compelled disclosure analysis |
-| `Bitcoin_Tax_Classifications_Sui_Generis_Analysis_v1.md` | Complete | Analysis of tax classification challenges |
-| `Case_Law_Compendium_v1.md` | Complete | Bitcoin and crypto case law tracker (multi-jurisdictional) |
+Supporting files in `foundations/supporting/` are current.
 
 ---
 
-## Tier 2 — Operational Documents
+## Tier 2 — `operational/`
 
-| Document | Status | Notes |
-|----------|--------|-------|
-| `Tier2_Centralised_Monetary_Governance_v1.0.md` | Complete | Historical patterns of centralised monetary control |
-| `Tier2_Strategic_Risk_Mitigation_Framework_v1.0.md` | Complete | Risk taxonomy and defence-in-depth strategies |
-| `Tier2_Critical_Monetary_Infrastructure_v1.0.md` | Complete | Training, tooling and implementation pathways |
-| `Tier2_Full_Document_v1.md` | Complete | Combined Tier 2 collection |
+All five `operational/0N_…_v1.md` files are current. `05` is a genuine combined document.
 
 ---
 
-## Actionable Documents
+## Tracks
 
-| Document | Status | Notes |
-|----------|--------|-------|
-| `South_Africa_Public_Comment_Template_v2.md` | Complete | Updated and locked final version |
+| Folder | Role | Status |
+|--------|------|--------|
+| `jurisdictions/` | Law track. `{Country}.md`. Mining annexes only under `Bhutan/` and `Kazakhstan/`. | Live. Ten short-form files dated 23 June 2026 still await the full template (see below). |
+| `tax_track/` | Tax track. `{Country}.md` titled “{Country} – Tax Framework”. | Live. South Africa overview, Portugal, Spain. SARS letter filed 31 August 2026. FinSurv Annexure A filed 29 September 2026. |
+| `education_track/` | Instructional. | Draft / present. |
 
----
+### Law-track short form (23 June 2026) — later refresh, not this tidy pass
 
-## Nation Documents (Updated)
-
-| Document | Status | Notes |
-|----------|--------|-------|
-| `South_Africa.md` | Complete | Updated 25 June 2026 |
-| `United_States.md` | Complete | Updated 25 June 2026 (includes 2026 CBDC ban) |
-| `France.md` | Complete | Updated 25 June 2026 |
-| `Germany.md` | Complete | Updated 25 June 2026 |
-| `United_Kingdom.md` | Complete | Updated 25 June 2026 |
-| `Netherlands.md` | Complete | Updated 25 June 2026 |
-
-**Note:** Additional nation documents exist in earlier form and will be reviewed and updated on a priority basis.
+Brazil, Canada, El Salvador, India, Japan, Portugal (law track — distinct from `tax_track/jurisdictions/Portugal/`), Singapore, South Korea, Switzerland, United Arab Emirates.
 
 ---
 
-## Key Priorities (as of June 2026)
+## Filed instruments (do not rewrite as living papers)
 
-- Maintain and expand the Case Law Compendium.
-- Monitor regulatory developments, particularly in South Africa following the 30 June 2026 deadline.
-- Continue refinement of remaining nation documents as required.
-- Ensure ongoing consistency with the Bitcoin Sovereignty Core Principles.
+| Instrument | Path | Filed |
+|------------|------|-------|
+| CFM / SARB1 objection | `jurisdictions/South_Africa/Objection_Letter_Draft_Capital_Flow_Management_Regulations_2026.md` | 30 June 2026 |
+| SARS Draft Guide letter | `tax_track/jurisdictions/South_Africa/Objection_and_Recommendations_SARS_Draft_Guide_Taxation_Crypto_Assets_2026.md` | 31 August 2026 |
+| FinSurv Annexure A | `tax_track/jurisdictions/South_Africa/FinSurv_Draft_Manual/Annexure_A_Comments_Draft_Crypto_Asset_Manual_Cross_Border_2026.md` | 29 September 2026 |
 
----
-
-## Version Control
-
-Major documents use semantic versioning. Future substantive updates will result in a version increment. Minor formatting or consistency updates will retain the existing version number with an updated date where appropriate.
+There is no `South_Africa_Public_Comment_Template_v2.md`. The CFM letter is its successor.
 
 ---
 
-**Prepared by** Jacques Strydom, PMP (PMI ID: 3160455)  
-**Published by** MoloBTC  
-**In collaboration with** Grok (built by xAI)
+## Open tickets after this tidy pass
 
-**License:** Released under the Bitcoin Sovereign Open Source License (BSOL) v1.0.
+1. Align `foundations/01` and `05` names with contents, or rewrite contents to match names.
+2. Amend Publishing Baseline §5–§6 so they describe `_v1.md` and the live folders.
+3. Refresh the ten short-form law-track files listed above.
+
+---
 
 **Canonical Repository:** https://github.com/MoloBTC-Org/bsrf
