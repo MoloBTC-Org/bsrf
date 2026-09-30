@@ -1,88 +1,60 @@
-# Sovereign Monetary Infrastructure: Executive Overview
+# Bitcoin Self-Custody Research Ecosystem
 
-**Tier 1 Companion Document**  
-**Bitcoin Self-Custody Research Ecosystem**
+## Tier 1 — Executive Overview & Reading Guide
 
 **Prepared by** Jacques Strydom, PMP (PMI ID: 3160455)  
 **Published by** MoloBTC  
 **In collaboration with** Grok (built by xAI)
 
-**June 2026 | BSOL v1.0**
+**Updated:** 30 September 2026  
+**License:** Bitcoin Sovereign Open Source License (BSOL) v1.0
 
-## Executive Summary
+**Canonical Repository:** https://github.com/MoloBTC-Org/bsrf
 
-Sovereign monetary infrastructure refers to the systems, protocols, and practices that enable individuals and communities to exercise independent control over money, value transfer, and financial coordination without reliance on centralised intermediaries or state-controlled monetary systems.
+This file is the front door to Tier 1. It is not Paper 3 and it is not a compilation of the three papers.
 
-Bitcoin, when held in self-custody and transacted peer-to-peer, represents the most advanced form of sovereign monetary infrastructure currently available. Its design — fixed supply, decentralised consensus, and cryptographic self-sovereignty — creates a monetary system that is resistant to censorship, debasement, and arbitrary control.
+---
 
-This document examines the foundational requirements for sovereign monetary infrastructure and positions Bitcoin as its primary realisation in the digital age.
+## Wamkelekile / Welcome
 
-## 1. Definition and Principles
+Tier 1 is the jurisprudential layer of the Bitcoin Sovereignty Research Framework. It states what Bitcoin is for the purpose of law and policy before any country file or tax file is opened.
 
-Sovereign monetary infrastructure must satisfy the following core principles:
+### Purpose of Tier 1
 
-- **Self-custody**: Individuals must be able to hold and control money without third-party custodians.
-- **Censorship resistance**: Transactions and holdings must be resistant to seizure or blocking by any single authority.
-- **Verifiability**: Participants must be able to independently verify the integrity of the monetary system.
-- **Portability**: Money must be movable across borders and jurisdictions with minimal friction.
-- **Durability**: The system must remain functional over long periods without requiring permission from any central party.
+Tier 1 establishes Bitcoin as *sui generis* bearer property and as an adjacent currency, and treats self-custody and node operation as sovereign monetary infrastructure. Tier 2 applies those positions to history, organisational risk and implementation. Country files on `jurisdictions/` and `tax_track/` apply them to a named legal system.
 
-## 2. Historical Context
+### The three papers
 
-Throughout history, sovereign individuals and communities have sought alternatives to state-controlled money when it became unreliable, inflationary, or weaponised. Examples include:
+1. `foundations/02_Tier1_Sui_Generis_Bearer_Property_v1.md` — legal character of self-custodied Bitcoin; holding, key control and unrealised change are not the tax base.
+2. `foundations/03_Tier1_Adjacent_Currency_v1.md` — Bitcoin as a medium that sits beside legal tender; realisation is local; coordination is the DTA problem, not a global Bitcoin tax.
+3. `foundations/04_Tier1_Sovereign_Monetary_Infrastructure_v1.md` — self-custody and noding as infrastructure, not as a product of an issuer.
 
-- Gold and silver as hard money outside state control.
-- Private currencies and community scrip during periods of monetary instability.
-- Encrypted and privacy-preserving payment systems in the digital age.
+`foundations/05_Tier1_Full_Document_v1.md` is the reading packet: this overview, a short companion digest of Paper 3, and pointers to the three canonical papers. It does not replace `02`, `03` or `04`.
 
-Bitcoin represents the first successful synthesis of these historical desires with modern cryptography and distributed systems.
+### How to read
 
-## 3. Bitcoin as Sovereign Monetary Infrastructure
+- Policy, counsel and research: `02`, then `03`, then `04`.
+- Board and strategy: this overview, then `04`.
+- First reading: this file only, then the paper that matches the question.
 
-Bitcoin satisfies the requirements of sovereign monetary infrastructure through:
+### Relationship to Tier 2 and the tracks
 
-- **Proof-of-Work consensus**: Energy-backed security that cannot be easily subverted.
-- **Fixed supply (21 million)**: Protection against arbitrary inflation.
-- **Decentralised node network**: No single point of control or failure.
-- **Cryptographic self-custody**: Control through private keys that can exist solely in the mind.
-- **Global, borderless operation**: Functions independently of nation-state monetary policy.
+Tier 2 lives in `operational/`. Law-track country notes live in `jurisdictions/`. Tax-track notes and the filed South African instruments live in `tax_track/`. Authority for the thesis remains `begin_here/01_Bitcoin_Sovereignty_Core_Principles_v1.md`.
 
-When combined with self-custody practices and node operation, Bitcoin becomes a complete sovereign monetary infrastructure stack.
+---
 
-## 4. Implications for Individuals and Communities
+## Companion digest of Paper 3
 
-The existence of sovereign monetary infrastructure changes the relationship between individuals and the state:
+The short essay that previously occupied this filename is kept here so that text is not discarded. The canonical Paper 3 remains `foundations/04_Tier1_Sovereign_Monetary_Infrastructure_v1.md`.
 
-- It provides a credible exit option from failing or weaponised monetary systems.
-- It enables voluntary, permissionless economic coordination.
-- It shifts power from institutions back to individuals who choose to exercise self-sovereignty.
+Sovereign monetary infrastructure is the set of protocols and practices that let a person hold and transfer value without a central issuer and without a required custodian. Bitcoin in self-custody is the working instance: fixed supply, proof-of-work, a node that can verify without permission, and a key that can exist as words in a mind.
 
-Communities that adopt Bitcoin as part of their monetary infrastructure gain resilience against external financial pressure and internal monetary mismanagement.
+The tests are self-custody, censorship resistance, independent verification, portability, and durability without a licence from a monetary authority. Gold, private scrip and encrypted value-transfer were earlier attempts. Bitcoin is the first that combines those aims with a global, energy-priced consensus.
 
-## 5. Challenges and Requirements
-
-Realising sovereign monetary infrastructure at scale requires:
-
-- Widespread self-custody education and practice.
-- Robust node operation and network participation.
-- Development of supporting tools that respect sovereignty (non-custodial wallets, private communication channels, etc.).
-- Legal and cultural recognition of the right to self-custody and private money.
-
-## 6. Conclusion
-
-Sovereign monetary infrastructure is not merely a technical achievement — it is a civilisational capability. Bitcoin, when properly understood and used in self-custody, provides the strongest foundation currently available for this infrastructure.
+It does not follow that every use is outside tax or criminal law. Realisation into legal tender at a domestic interface remains the coherent event. Issuer-dependent tokens remain issuer-dependent. This digest does not amend Paper 2 or Paper 3.
 
 ---
 
 **Prepared by** Jacques Strydom, PMP (PMI ID: 3160455)  
 **Published by** MoloBTC  
 **In collaboration with** Grok (built by xAI)
-
-**License:** Released under the Bitcoin Sovereign Open Source License (BSOL) v1.0.
-
-**Canonical Repository:** https://github.com/MoloBTC-Org/bsrf
-
-The preservation and advancement of sovereign monetary infrastructure should be treated as a core strategic priority for individuals, communities, and any organisation that values long-term freedom and resilience.
-
-**Published by MoloBTC**  
-Canonical repository: https://github.com/MoloBTC-Org/bsrf

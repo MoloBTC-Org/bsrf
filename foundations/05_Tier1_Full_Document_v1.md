@@ -1,123 +1,63 @@
-# Bitcoin Self-Custody Research Ecosystem
+# Tier 1 — Full Document
 
-## Tier 1 — Executive Overview & Reading Guide
+**Reading packet, not a fourth original**
 
 **Prepared by** Jacques Strydom, PMP (PMI ID: 3160455)  
-**(Project Owner & Creator)**
-
 **Published by** MoloBTC  
 **In collaboration with** Grok (built by xAI)
 
-**June 2026 | BSOL v1.0**
+**Updated:** 30 September 2026  
+**License:** Bitcoin Sovereign Open Source License (BSOL) v1.0
+
+**Canonical Repository:** https://github.com/MoloBTC-Org/bsrf
 
 ---
 
-## Wamkelekile / Welcome
+## What this file is
 
-This document serves as the front door to the Tier 1 foundational papers within the Bitcoin Self-Custody Research Ecosystem. Its purpose is to help readers quickly understand the structure and find the most relevant entry point for their needs. The research is designed to support clear communication and effective collaboration across different roles by providing strong philosophical, legal, and strategic foundations.
+Tier 2 `operational/05_Tier2_Full_Document_v1.md` concatenates the three operational papers. Tier 1 does not. The three Tier 1 papers are the canonical texts. Duplicating them here would create a second copy that drifts the first time `02`, `03` or `04` is edited.
 
-### Purpose of Tier 1
+This file is the packet:
 
-Tier 1 establishes the core philosophical, jurisprudential, and strategic foundations for understanding Bitcoin as *sui generis* bearer property and self-custody as sovereign monetary infrastructure. These papers provide the conceptual grounding upon which the operational guidance in Tier 2 is built.
+1. Where to start (`foundations/01_Tier1_Executive_Overview_v1.md`).
+2. What each paper decides.
+3. The short Paper 3 digest that previously sat under the `01` filename, so that text is not lost.
 
-### Document Structure – Tier 1
+## The three canonical papers
 
-Tier 1 consists of three foundational papers:
+| Paper | Path | Decision |
+|-------|------|----------|
+| Bearer property | `foundations/02_Tier1_Sui_Generis_Bearer_Property_v1.md` | Self-custodied Bitcoin is *sui generis* bearer property. Mere holding, key control and unrealised change are not the tax base. Compelled production of a seed is production of thought. |
+| Adjacent currency | `foundations/03_Tier1_Adjacent_Currency_v1.md` | Bitcoin functions beside legal tender. Realisation is territorial. Cross-border coordination is a DTA problem, not a warrant to treat the protocol as one state’s asset. |
+| Sovereign monetary infrastructure | `foundations/04_Tier1_Sovereign_Monetary_Infrastructure_v1.md` | Self-custody and node operation are infrastructure. They are not a service issued by a foundation and they are not an account at an intermediary. |
 
-1. **Bitcoin as Sui Generis Bearer Property** — The core jurisprudential foundation establishing Bitcoin’s unique legal character under Natural Law and Austrian economics.
-2. **Bitcoin as Adjacent Currency under International Law** — Analysis of jurisdiction, tax treatment, double-tax coordination, and the positioning of self-custodied Bitcoin in the international system.
-3. **Bitcoin Self-Custody as Sovereign Monetary Infrastructure** — The central integrative synthesis connecting historical patterns of monetary governance, organisational risk, and practical implementation pathways (the primary hub document).
+Supporting analyses sit in `foundations/supporting/`. They are not part of this packet.
 
-### How to Use Tier 1
+## Abstracts (from the papers themselves)
 
-**Recommended Reading Paths**
+**Paper 1.** Self-custodied Bitcoin arises through proof-of-work, can exist as memorised words, and needs no state ledger to exist. Taxation is coherent at realisation into legal tender or at a business interface. It is not coherent as a tax on the medium, on the key, or on an unrealised mark.
 
-- **Policy, Legal & Research teams**: Begin with *Bitcoin as Sui Generis Bearer Property*, followed by *Bitcoin as Adjacent Currency under International Law*, then the Synthesis Whitepaper.
-- **Board, Executives & Strategy**: Start with this Overview, then focus on the Synthesis Whitepaper (*Bitcoin Self-Custody as Sovereign Monetary Infrastructure*).
-- **Readers seeking full philosophical grounding**: Read all three papers in the order listed above.
-- **First-time readers**: Begin with this Executive Overview & Reading Guide.
+**Paper 2.** Adjacent currency is the name for that medium when it is used as money beside a state’s unit. It is not a claim that Bitcoin is legal tender. It is not a claim that issued tokens share the class. Local charging follows local realisation. Double-tax logic follows the person and the realisation, not the UTXO.
 
-### Relationship to Tier 2
+**Paper 3.** The stack — key, node, proof-of-work, fixed supply — is monetary infrastructure that no single interior ministry can switch off. History of centralised money shows why that stack is the risk control. Implementation detail is Tier 2.
 
-Tier 1 provides the foundational principles. Tier 2 (Centralised Monetary Governance, Strategic Risk-Mitigation Framework, and Critical Monetary Infrastructure) applies these principles to historical evidence, risk management, and practical implementation. Readers may move between tiers using the cross-references provided in each document.
+## Companion digest previously filed as `01`
 
-This Executive Overview & Reading Guide will be updated periodically as new material is added to the ecosystem.
+Sovereign monetary infrastructure is the set of protocols and practices that let a person hold and transfer value without a central issuer and without a required custodian. Bitcoin in self-custody is the working instance: fixed supply, proof-of-work, a node that can verify without permission, and a key that can exist as words in a mind.
 
----
+The tests are self-custody, censorship resistance, independent verification, portability, and durability without a licence from a monetary authority. Gold, private scrip and encrypted value-transfer were earlier attempts. Bitcoin is the first that combines those aims with a global, energy-priced consensus.
 
-# Bitcoin as Sui Generis Bearer Property
+It does not follow that every use is outside tax or criminal law. Realisation into legal tender at a domestic interface remains the coherent event. Issuer-dependent tokens remain issuer-dependent.
 
-## The Natural-Law and Austrian Case for Tax-Free Treatment of Self-Custodied Bitcoin
+## How this packet relates to the rest of the repo
 
-**Tier 1 Foundational Paper 1**
-
-This paper establishes the core jurisprudential and economic argument that self-custodied Bitcoin constitutes *sui generis* bearer property. It demonstrates that, under Natural Law and Austrian economics, there is no coherent moral or economic foundation for taxing the asset itself (holding, movement, or unrealised appreciation). Taxation remains legitimate only when limited to realised economic activity at observable interfaces with state-favoured monetary systems.
-
-The paper deliberately centres Austrian economics as the most practical bridge to policy while Natural Law supplies the rights-based grounding. It preserves protocol invariants and is designed for legislative submissions, judicial reference, and principled sovereignty structuring.
-
-**Read the full expansive version** in the individual supporting document: *Bitcoin as Sui Generis Bearer Property*.
+- Thesis: `begin_here/01_Bitcoin_Sovereignty_Core_Principles_v1.md`
+- Map: `begin_here/03_Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.md`
+- Tier 2: `operational/`
+- Countries: `jurisdictions/` and `tax_track/jurisdictions/`
 
 ---
 
-# Bitcoin as Adjacent Currency under International Law
-
-## The Global Case for Sui Generis Bearer Property, Separate Local Realization Taxation, and Double-Tax Coordination Principles
-
-**Tier 1 Foundational Paper 2**
-
-This paper extends the *sui generis* analysis into the international domain. It argues that self-custodied Bitcoin functions as an **adjacent currency** — a parallel, non-sovereign medium that operates beyond the territorial monetary and tax categories of any single state.
-
-It examines the limits of traditional jurisdictional principles when applied to a borderless, protocol-enforced, mind-resident bearer asset, and proposes that states coordinate taxing rights over realised economic activity through mechanisms analogous to Double Tax Agreements, while recognising that the asset layer itself lies outside the tax base.
-
-**Read the full expansive version** in the individual supporting document: *Bitcoin as Adjacent Currency under International Law*.
-
----
-
-# Bitcoin Self-Custody as Sovereign Monetary Infrastructure
-
-## Historical Patterns, Risk Framework, and Implementation Pathways
-
-**Tier 1 Foundational Paper 3 (Hub Document)**
-
-This is the central integrative synthesis paper of Tier 1. It connects the jurisprudential foundations established in the first two papers with historical patterns of centralised monetary governance and a strategic risk-mitigation framework for organisations.
-
-The paper demonstrates how recurring historical mechanisms of monetary control (from the Berlin Conferences through to contemporary regulatory developments) create structural risks for organisations holding Bitcoin. It shows how self-custody, when implemented with appropriate defence-in-depth architecture, converts institutional and political risk into manageable operational risk — thereby restoring a meaningful degree of monetary sovereignty.
-
-This document serves as the primary hub linking Tier 1 foundations to the operational guidance contained in Tier 2.
-
-**Read the full expansive version** in the individual supporting document: *Bitcoin Self-Custody as Sovereign Monetary Infrastructure*.
-
----
-
-## How the Three Tier 1 Papers Work Together
-
-The three foundational papers are designed to be read as an integrated set:
-
-- **Sui Generis Bearer Property** supplies the rights-based and economic foundation.
-- **Adjacent Currency under International Law** extends that foundation into the global legal and tax coordination domain.
-- **Sovereign Monetary Infrastructure** synthesises both into a coherent strategic and historical argument for why self-custody matters at the organisational level.
-
-Together they provide the philosophical, legal, and strategic “why” that underpins the practical “how” developed in Tier 2.
-
----
-
-## Relationship Between Tier 1 and Tier 2
-
-| Tier | Focus                              | Primary Audience                     | Depth                  |
-|------|------------------------------------|--------------------------------------|------------------------|
-| Tier 1 | Philosophical, jurisprudential & strategic foundations | Policy, legal, research, board & strategy | Foundational & integrative |
-| Tier 2 | Historical evidence, risk analysis & operational implementation | Treasury, finance, IT, security & operations | Applied & practical |
-
-Tier 1 answers *why* self-custody is a rational and principled response to recurring patterns of monetary governance.  
-Tier 2 answers *how* to implement it effectively at the organisational level.
-
-Readers are encouraged to move fluidly between the two tiers using the cross-references provided in each document.
-
----
-
-**Authorship:** Prepared by Jacques Strydom, PMP (PMI ID: 3160455). Published by MoloBTC. Research collaboration with Grok (built by xAI).  
-**License:** Released under the Bitcoin Sovereign Open License (BSOL) v1.0.
-
----
-
-*This document serves as the connective overview for Tier 1. For full depth, please refer to the individual supporting documents.*
+**Prepared by** Jacques Strydom, PMP (PMI ID: 3160455)  
+**Published by** MoloBTC  
+**In collaboration with** Grok (built by xAI)
