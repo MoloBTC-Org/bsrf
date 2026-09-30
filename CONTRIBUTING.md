@@ -4,7 +4,7 @@ Thank you for your interest in contributing. This repository is the **Single Sou
 
 ## Core Alignment
 
-All contributions must remain consistent with the **Bitcoin Sovereignty Core Principles v1.0**, including:
+All contributions must remain consistent with `begin_here/01_Bitcoin_Sovereignty_Core_Principles_v1.md`, including:
 
 - Bitcoin as **sui generis bearer property**
 - Bitcoin as an **adjacent currency**
@@ -15,9 +15,9 @@ Documents that contradict these positions will not be accepted.
 
 ## Publishing Standards
 
-All documents must comply with the **Bitcoin Sovereignty Publishing Baseline v1.0**.
+All documents must comply with the **Bitcoin Sovereignty Publishing Baseline**.
 
-See: [PUBLISHING_BASELINE_v1.0.md](PUBLISHING_BASELINE_v1.0.md)
+See: [PUBLISHING_BASELINE_v1.md](PUBLISHING_BASELINE_v1.md)
 
 ## How to Contribute
 
@@ -30,7 +30,7 @@ Use Pull Requests for:
 All Pull Requests must:
 - Reference the relevant section of the Publishing Baseline
 - Include a clear description of the change and its purpose
-- Be placed in the correct folder (`foundations/`, `operational/`, `jurisdictions/`, etc.)
+- Be placed in the correct folder (see Document Placement below)
 
 ### Issues
 Use Issues for:
@@ -43,14 +43,18 @@ Use GitHub Discussions for broader policy or philosophical debate.
 
 ## Document Placement
 
-- Core philosophical and legal foundations → `foundations/`
+- Core principles and navigation → `begin_here/`
+- Philosophical and legal foundations → `foundations/` (supporting notes → `foundations/supporting/`)
 - Operational, risk, and implementation work → `operational/`
-- Jurisdiction-specific analysis → `jurisdictions/`
-- Policy templates and submissions → `policy/`
+- Jurisdiction-specific legislative analysis → `jurisdictions/` (`{Country}.md`; mining annexes only under that country’s folder)
+- Tax, reporting and capital-flow analysis, and filed tax/FinSurv instruments → `tax_track/`
+- Instructional material → `education_track/`
+
+Do not create `policy/`, `nations/`, `nation-specific/`, or a top-level `supporting/` folder.
 
 ## Governance
 
-The `PUBLISHING_BASELINE_v1.0.md` is a protected document. Significant changes require explicit maintainer approval.
+`PUBLISHING_BASELINE_v1.md` is a protected document. Significant changes require explicit maintainer approval.
 
 This project operates under the **Bitcoin Sovereign Open Source License (BSOL) v1.0**.
 

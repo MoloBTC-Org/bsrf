@@ -3,7 +3,7 @@
 **A professional research repository for the legal and policy treatment of Bitcoin as sui generis bearer property and adjacent currency.**
 
 **Canonical Repository:** https://github.com/MoloBTC-Org/bsrf  
-**License:** BSOL v1.0  
+**License:** Bitcoin Sovereign Open Source License (BSOL) v1.0  
 **Steward:** Jacques Strydom, PMP
 
 ---
@@ -29,34 +29,37 @@ The framework is designed to support researchers, legal practitioners, policymak
 
 The repository is organised to move from high-level principles to detailed analysis:
 
-- **Root level** — Core entry documents and governance files
-- **`foundations/`** — Tier 1: Philosophical, jurisprudential, and historical foundations
-- **`operational/`** — Tier 2: Risk, implementation, and practical guidance
-- **`jurisdictions/`** — Country-specific regulatory and legal analysis
-- **`policy/`** — Actionable policy documents and templates
-- **`begin here/`** — Orientation materials for new readers
-- **`supporting/`** — Case law, references, and deep analysis
+- **Root** — `README.md`, `CONTRIBUTING.md`, `LICENSE.md`, `PUBLISHING_BASELINE_v1.md`, `SOVEREIGN-KNOWLEDGE-DECLARATION.md`, `Open_Letter_Bitcoin_Separation.md`
+- **`begin_here/`** — Core Principles, Global Framework, Ecosystem Index, Master Collation Database
+- **`foundations/`** — Tier 1 papers and `foundations/supporting/`
+- **`operational/`** — Tier 2 papers
+- **`jurisdictions/`** — country legislative and regulatory notes (law track)
+- **`tax_track/`** — charging, reporting and capital-flow notes, plus filed South African tax and FinSurv instruments
+- **`education_track/`** — instructional material
+- **`.github/`** — CODEOWNERS, PR template, governance notes
+
+Supporting analyses live in `foundations/supporting/` and `tax_track/supporting/`. There is no top-level `policy/` or `supporting/` folder.
 
 ---
 
 ## How to Navigate
 
-| Audience                        | Recommended Starting Point                              |
-|--------------------------------|---------------------------------------------------------|
-| Policymakers & Legal Researchers | `Bitcoin_Sovereignty_Core_Principles_v1.md` + relevant jurisdiction |
-| Board / Executive Leadership    | `Global_Framework_Document_v1.md` + Tier 2 Risk documents |
-| Technical & Security Teams      | `operational/` folder + Critical Monetary Infrastructure |
-| General Self-Custody Practitioners | `begin here/` folder + Core Principles |
+| Audience | Recommended starting point |
+|----------|----------------------------|
+| Policymakers and legal researchers | `begin_here/01_Bitcoin_Sovereignty_Core_Principles_v1.md` and the relevant file under `jurisdictions/` or `tax_track/jurisdictions/` |
+| Board / executive leadership | `begin_here/02_Global_Framework_Document_v1.md` and `operational/` |
+| Technical and security teams | `operational/` |
+| Self-custody practitioners | `begin_here/` and `education_track/` |
 
-A detailed reading guide is maintained in the `Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.3.md`.
+The reading map is `begin_here/03_Bitcoin_Self_Custody_Research_Ecosystem_Index_v1.md`. Status of papers is `begin_here/04_Master_Collation_Database_v1.md`.
 
 ---
 
 ## Publishing Standards
 
-All documents must comply with the **Bitcoin Sovereignty Publishing Baseline v1.0**.
+All documents must comply with the **Bitcoin Sovereignty Publishing Baseline**.
 
-See: [PUBLISHING_BASELINE_v1.0.md](PUBLISHING_BASELINE_v1.0.md)
+See: [PUBLISHING_BASELINE_v1.md](PUBLISHING_BASELINE_v1.md)
 
 ---
 
