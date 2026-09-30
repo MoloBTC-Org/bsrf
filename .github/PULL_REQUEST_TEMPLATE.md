@@ -20,7 +20,7 @@
 
 ## Checklist
 <!-- Ensure all items are completed before requesting review -->
-- [ ] I have read the [CONTRIBUTING.md](CONTRIBUTING.md) and followed the contribution process (Discussion → Proposal → PR).
+- [ ] I have read the [CONTRIBUTING.md](../CONTRIBUTING.md) and followed the contribution process (Discussion → Proposal → PR).
 - [ ] Changes are focused and appropriately scoped.
 - [ ] Documentation and comments are clear, professional, and neat.
 - [ ] Content is factually and legally accurate where applicable.

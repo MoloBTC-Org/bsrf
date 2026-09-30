@@ -10,12 +10,14 @@
 # Note: This works together with branch protection rules requiring Code Owner reviews.
 
 # Core governance and baseline files – highest scrutiny
-/PUBLISHING_BASELINE_v1.0.md                          @JabulaniJakes @MoloBTC
-/Bitcoin_Sovereignty_Publishing_Baseline_v1.0.md      @JabulaniJakes @MoloBTC
+/PUBLISHING_BASELINE_v1.md                            @JabulaniJakes @MoloBTC
 /CONTRIBUTING.md                                      @JabulaniJakes @MoloBTC
-/CODE_OF_CONDUCT.md                                   @JabulaniJakes @MoloBTC
 /LICENSE.md                                           @JabulaniJakes @MoloBTC
 /README.md                                            @JabulaniJakes @MoloBTC
+/SOVEREIGN-KNOWLEDGE-DECLARATION.md                   @JabulaniJakes @MoloBTC
+
+# Orientation
+/begin_here/                                          @JabulaniJakes @MoloBTC
 
 # Tier 1 – Foundations (Philosophical & Jurisprudential)
 /foundations/                                         @JabulaniJakes @MoloBTC
@@ -23,21 +25,17 @@
 # Tier 2 – Operational (Risk, Implementation & Practice)
 /operational/                                         @JabulaniJakes @MoloBTC
 
-# Education and future energy-physics work
-/education/                                           @JabulaniJakes @MoloBTC
-/energy-physics/                                      @JabulaniJakes @MoloBTC
+# Law track
+/jurisdictions/                                       @JabulaniJakes @MoloBTC
 
-# Nation-specific work (especially South Africa)
-/nation-specific/                                     @JabulaniJakes @MoloBTC
+# Tax track
+/tax_track/                                           @JabulaniJakes @MoloBTC
 
-# Governance scaffolding
-/governance/                                          @JabulaniJakes @MoloBTC
+# Education track
+/education_track/                                     @JabulaniJakes @MoloBTC
 
-# Supporting analyses and references
-/supporting/                                          @JabulaniJakes @MoloBTC
-
-# Templates and publishing tools
-/templates/                                           @JabulaniJakes @MoloBTC
+# GitHub scaffolding
+/.github/                                             @JabulaniJakes @MoloBTC
 
 # Default fallback for any other changes
 *                                                     @JabulaniJakes @MoloBTC
